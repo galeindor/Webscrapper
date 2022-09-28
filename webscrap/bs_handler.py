@@ -1,31 +1,33 @@
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
-
-
-def get_html(url):
-    driver = webdriver.Chrome()
-    driver.get(url)
-    web_html = driver.page_source
-    driver.close()
-    return web_html
+from consts import inner_class_name, outer_class_name
 
 
 def create_url(symbol):
     return f"https://www.otcmarkets.com/stock/{symbol}/security"
 
-
 class Soup:
+
     def __init__(self, symbol):
+        self._driver = webdriver.Chrome()
         url = create_url(symbol)
-        resp = get_html(url)
+        resp = self.get_html(url)
         self._soup = bs(resp, features="html.parser")
         self._symbol = symbol
 
+    def get_html(self, url):
+        self._driver.get(url)
+        web_html = self._driver.page_source
+        return web_html
+
     def locate_market_cap(self):
         try:
-            res = self._soup.find(class_='_8AXJn4ourf sc-htpNat jtWIOA sc-bdVaJa gRrvFh')
-            res = res.find(class_='sc-bdVaJa kYmYWE')
+            res = self._soup.find(class_=outer_class_name)
+            res = res.find(class_=inner_class_name)
             return str(res.string)
         except AttributeError as e:
-            print(f'Market Cap can not be found for symbol: {self._symbol}')
+            print(f'Market Cap can not be found for symbol: {self._symbol} \n{e}')
             return ' '
+
+    def close_driver(self):
+        self._driver.close()
