@@ -11,7 +11,7 @@ class FileHandler:
         self._in_file = input_file
 
     def add_column(self, keyword):
-        assert keyword not in endings
+        assert keyword not in endings.items()
 
         if keyword not in self._data.columns:  # if column doesn't exist , create empty column
             self._data[keyword] = None

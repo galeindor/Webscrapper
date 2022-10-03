@@ -65,12 +65,25 @@ class Soup:
         if symbol is None:
             symbol = self._symbol
         try:
-            res = self._soup.find(class_=class_names[self._key]['outer'])
-            res = res.find(class_=class_names[self._key]['inner'])
+            index = class_names[self._key]['index']
+            outer = self._soup.find_all(class_=class_names[self._key]['outer'])[index]
+            res = outer.find(class_=class_names[self._key]['inner'])
             return str(res.string)
         except AttributeError as e:
             print(f'Market Cap can not be found for symbol: {symbol} \n{e}')
             return None
+
+    # def find_value_by_key(self, key=None):
+    #     assert key is None
+    #
+    #     if key == 'Market Cap':
+    #
+    #     elif key == 'SIC Code':
+    #         outer = self._soup.find_all(class_=class_names[key]['outer'])
+    #         return outer.find(class_=class_names[key]['inner'])
+    #     elif key == 'Description':
+    #         outer = self._soup.find(class_=class_names[key]['outer'])
+    #         return outer.find(class_=class_names[key]['inner'])
 
     def reset(self, symbol=None):
         url = create_url(symbol, self._key)

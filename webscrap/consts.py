@@ -4,15 +4,16 @@ endings = {
     'Description': 'profile'
 }
 
+# each
 class_names = {
     'Market Cap': {
-        'outer': '_8AXJn4ourf sc-htpNat jtWIOA sc-bdVaJa gRrvFh', 'inner': 'sc-bdVaJa kYmYWE'
+        'index': 0, 'outer': '_8AXJn4ourf sc-htpNat jtWIOA sc-bdVaJa gRrvFh', 'inner': 'sc-bdVaJa kYmYWE'
     },
     'SIC Code': {
-        'outer': '_8AXJn4ourf sc-htpNat jtWIOA sc-bdVaJa gRrvFh', 'inner': 'sc-bdVaJa kYmYWE'
+        'index': 1, 'outer': '_8AXJn4ourf sc-htpNat jtWIOA sc-bdVaJa gRrvFh', 'inner': 'sc-bdVaJa kYmYWE'
     },
     'Description': {
-        'outer': '_8AXJn4ourf sc-htpNat jtWIOA sc-bdVaJa gRrvFh', 'inner': 'sc-bdVaJa kYmYWE'
+        'index': 1, 'outer': '_8AXJn4ourf sc-htpNat jtWIOA sc-bdVaJa gRrvFh', 'inner': 'sc-bdVaJa kYmYWE'
     }
 }
 input_file_name = 'Stock_input.csv'
