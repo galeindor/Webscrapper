@@ -65,9 +65,10 @@ class Soup:
         if symbol is None:
             symbol = self._symbol
         try:
-            index = class_names[self._key]['index']
-            outer = self._soup.find_all(class_=class_names[self._key]['outer'])[index]
-            res = outer.find(class_=class_names[self._key]['inner'])
+            out_index = class_names[self._key]['outer_index']
+            inner_index = class_names[self._key]['inner_index']
+            outer = self._soup.find_all(class_=class_names[self._key]['outer'])[out_index]
+            res = outer.find_all(class_=class_names[self._key]['inner'])[inner_index]
             return str(res.string)
         except AttributeError as e:
             print(f'Market Cap can not be found for symbol: {symbol} \n{e}')
