@@ -21,7 +21,8 @@ class FileHandler:
         errors_dict = {}
         if keyword not in self._data.columns:  # if column doesn't exist , create empty column
             self._data[keyword] = EMPTY_CELL
-            self._data.to_csv(self._in_file)
+            self.export_to_csv(self._in_file)
+            self.export_to_csv(self._out_file)
         symbol = None
         for index in range(len(self._data)):
             try:
@@ -35,11 +36,13 @@ class FileHandler:
                 else:
                     continue
                 self._data.loc[index, keyword] = self._bs.locate_keyword(symbol)
-                self.export_to_csv()
+                self.export_to_csv(self._out_file)
 
             except Exception as e:
                 errors_dict[symbol] = e
-        print('finished run with the following errors:\n', errors_dict)
+        print('finished run with the following errors:')
+        for error in errors_dict:
+            print(f'{error} got {errors_dict[error]}')
 
     def export_to_csv(self, file_name=None):
         if file_name is None:

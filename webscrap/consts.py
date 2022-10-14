@@ -15,7 +15,7 @@ class_names = {
         'inner': '_383TUBEH9m sc-bdVaJa iHZvIS'
     },
     'Description': {
-        'outer_index': 34, 'inner_index': 0, 'outer': '_2Ff6O56evM sc-bdVaJa dmWroL', 'inner': '_3qFD1hZwGn'
+        'outer_index': 0, 'inner_index': 0, 'outer': '_2Ff6O56evM sc-bdVaJa dmWroL', 'inner': '_3qFD1hZwGn'
     }
 }
 default_input_file = 'Stock_input.csv'

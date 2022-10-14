@@ -14,4 +14,4 @@ def run(keyword, input_file=default_input_file, output_file=default_output_file)
 #     print(file_handler.html_test())
 
 if __name__ == '__main__':
-    run(keyword='SIC Code')
+    run(keyword='Description')

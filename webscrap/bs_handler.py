@@ -67,14 +67,16 @@ class Soup:
         web_html = self._driver.page_source
         return web_html
 
-    def locate_keyword(self, symbol=None):
+    def locate_keyword(self, symbol=None, key=None):
         if symbol is None:
             symbol = self._symbol
+        if key is None:
+            key = self._key
         try:
-            out_index = class_names[self._key]['outer_index']
-            inner_index = class_names[self._key]['inner_index']
-            outer = self._soup.find_all(class_=class_names[self._key]['outer'])[out_index]
-            res = outer.find_all(class_=class_names[self._key]['inner'])[inner_index]
+            out_index = class_names[key]['outer_index']
+            inner_index = class_names[key]['inner_index']
+            outer = self._soup.find_all(class_=class_names[key]['outer'])[out_index]
+            res = outer.find_all(class_=class_names[key]['inner'])[inner_index]
             return str(res.string)
         except AttributeError as e:
             print(f'Market Cap can not be found for symbol: {symbol} \n{e}')
