@@ -57,10 +57,6 @@ class Soup:
         self._driver = webdriver.Chrome()
         self.reset(symbol)
 
-    # def get_value_test(self):
-    #     url = create_url(self._symbol, self._key)
-    #     return self.get_html(url)
-
     def get_html(self, url):
         self._driver.get(url)
         sleep(SLEEP_TIME)
@@ -79,20 +75,8 @@ class Soup:
             res = outer.find_all(class_=class_names[key]['inner'])[inner_index]
             return str(res.string)
         except AttributeError as e:
-            print(f'Market Cap can not be found for symbol: {symbol} \n{e}')
+            print(f'{key} can not be found for symbol: {symbol} \n{e}')
             return EMPTY_CELL
-
-    # def find_value_by_key(self, key=None):
-    #     assert key is None
-    #
-    #     if key == 'Market Cap':
-    #
-    #     elif key == 'SIC Code':
-    #         outer = self._soup.find_all(class_=class_names[key]['outer'])
-    #         return outer.find(class_=class_names[key]['inner'])
-    #     elif key == 'Description':
-    #         outer = self._soup.find(class_=class_names[key]['outer'])
-    #         return outer.find(class_=class_names[key]['inner'])
 
     def reset(self, symbol=None):
         url = create_url(symbol, self._key)
