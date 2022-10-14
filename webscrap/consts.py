@@ -11,14 +11,18 @@ class_names = {
         'inner': 'sc-bdVaJa kYmYWE'
     },
     'SIC Code': {
-        'outer_index': 0, 'inner_index': 0, 'outer': 'B9e-1byHTk n6L6mBS6Y- _36meAm2WWk', 'inner': '_383TUBEH9m sc-bdVaJa iHZvIS'
+        'outer_index': 0, 'inner_index': 0, 'outer': 'B9e-1byHTk n6L6mBS6Y- _36meAm2WWk',
+        'inner': '_383TUBEH9m sc-bdVaJa iHZvIS'
     },
     'Description': {
-        'outer_index': 34, 'inner_index': 0, 'outer': '_2Ff6O56evM sc-bdVaJa dmWroL', 'inner': '_3qFD1hZwGn'
+        'outer_index': 0, 'inner_index': 0, 'outer': '_2Ff6O56evM sc-bdVaJa dmWroL', 'inner': '_3qFD1hZwGn'
     }
 }
-input_file_name = 'Stock_input.csv'
-output_file_name = 'Stock_output.csv'
+default_input_file = 'Stock_input.csv'
+default_output_file = 'Stock_output.csv'
+EMPTY_CELL = '.'
+SLEEP_TIME = 2.5
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 '
                   'Safari/537.36'}
@@ -41,3 +45,4 @@ test_symbols = ['ADMT',
                 'KISB', 'LPHM', 'LINS', 'LINSA', 'LYBC', 'MLGF',
                 'MNBP', 'MCHT', 'PSSR', 'MNPP', 'MBKL', 'MTRT', 'MPAD', 'MMTRS', 'MUEL'
                 ]
+

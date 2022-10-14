@@ -2,7 +2,9 @@ from time import sleep
 
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
-from consts import class_names, headers, endings
+from selenium.webdriver.common.by import By
+
+from consts import class_names, headers, endings, EMPTY_CELL, SLEEP_TIME
 from requests_html import HTMLSession
 
 
@@ -36,7 +38,7 @@ def driver_test(symbols, keyword):
 
 def get_html_by_requests(url):
     session = HTMLSession()
-    r = session.get(url)
+    r = session.get(url, headers=headers)
     r.html.render()
     print(r.text)
     print('\n------------------------------\n')
@@ -57,34 +59,24 @@ class Soup:
 
     def get_html(self, url):
         self._driver.get(url)
-        sleep(2.5)
+        sleep(SLEEP_TIME)
         web_html = self._driver.page_source
         return web_html
 
-    def locate_keyword(self, symbol=None):
+    def locate_keyword(self, symbol=None, key=None):
         if symbol is None:
             symbol = self._symbol
+        if key is None:
+            key = self._key
         try:
-            out_index = class_names[self._key]['outer_index']
-            inner_index = class_names[self._key]['inner_index']
-            outer = self._soup.find_all(class_=class_names[self._key]['outer'])[out_index]
-            res = outer.find_all(class_=class_names[self._key]['inner'])[inner_index]
+            out_index = class_names[key]['outer_index']
+            inner_index = class_names[key]['inner_index']
+            outer = self._soup.find_all(class_=class_names[key]['outer'])[out_index]
+            res = outer.find_all(class_=class_names[key]['inner'])[inner_index]
             return str(res.string)
         except AttributeError as e:
-            print(f'Market Cap can not be found for symbol: {symbol} \n{e}')
-            return None
-
-    # def find_value_by_key(self, key=None):
-    #     assert key is None
-    #
-    #     if key == 'Market Cap':
-    #
-    #     elif key == 'SIC Code':
-    #         outer = self._soup.find_all(class_=class_names[key]['outer'])
-    #         return outer.find(class_=class_names[key]['inner'])
-    #     elif key == 'Description':
-    #         outer = self._soup.find(class_=class_names[key]['outer'])
-    #         return outer.find(class_=class_names[key]['inner'])
+            print(f'{key} can not be found for symbol: {symbol} \n{e}')
+            return EMPTY_CELL
 
     def reset(self, symbol=None):
         url = create_url(symbol, self._key)
