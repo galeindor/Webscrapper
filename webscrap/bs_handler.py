@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as bs
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-from consts import class_names, headers, endings,EMPTY_CELL
+from consts import class_names, headers, endings, EMPTY_CELL, SLEEP_TIME
 from requests_html import HTMLSession
 
 
@@ -63,7 +63,7 @@ class Soup:
 
     def get_html(self, url):
         self._driver.get(url)
-        sleep(2.5)
+        sleep(SLEEP_TIME)
         web_html = self._driver.page_source
         return web_html
 

@@ -24,25 +24,32 @@ class FileHandler:
             self.export_to_csv(self._in_file)
             self.export_to_csv(self._out_file)
         symbol = None
-        for index in range(len(self._data)):
-            try:
-                symbol = self._data['Symbol'].loc[index]
-                value = self._data.loc[index, keyword]
-                if value == EMPTY_CELL:
-                    if self._bs is None:
-                        self._bs = Soup(symbol, keyword)
+        while True:
+            keep_trying = False
+            for index in range(len(self._data)):
+                try:
+                    symbol = self._data['Symbol'].loc[index]
+                    value = self._data.loc[index, keyword]
+                    if value == EMPTY_CELL:
+                        if self._bs is None:
+                            self._bs = Soup(symbol, keyword)
+                        else:
+                            self._bs.reset(symbol)
+                        keep_trying = True
                     else:
-                        self._bs.reset(symbol)
-                else:
-                    continue
-                self._data.loc[index, keyword] = self._bs.locate_keyword(symbol)
-                self.export_to_csv(self._out_file)
-
-            except Exception as e:
-                errors_dict[symbol] = e
-        print('finished run with the following errors:')
-        for error in errors_dict:
-            print(f'{error} got {errors_dict[error]}')
+                        continue
+                    self._data.loc[index, keyword] = self._bs.locate_keyword(symbol)
+                    self.export_to_csv(self._out_file)
+                except Exception as e:
+                    errors_dict[symbol] = e
+            print('finished run with the following errors:')
+            for error in errors_dict:
+                print(f'{error} got {errors_dict[error]}')
+            print(f'number of errors: {len(errors_dict)}')
+            if not keep_trying:
+                return
+            self.export_to_csv(self._in_file)
+            print('-------RESTART RUN-------')
 
     def export_to_csv(self, file_name=None):
         if file_name is None:

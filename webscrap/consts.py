@@ -21,6 +21,7 @@ class_names = {
 default_input_file = 'Stock_input.csv'
 default_output_file = 'Stock_output.csv'
 EMPTY_CELL = '.'
+SLEEP_TIME = 5
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 '
