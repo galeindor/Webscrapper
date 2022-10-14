@@ -18,7 +18,7 @@ MICR,MICRON SOLUTIONS INC,OTCQB,2.38,,0,Common Stock,USA,Massachusetts,"8,185,92
 ARTNB,ARTESIAN RES CORP B,OTCQB,50.01,,0,Common Stock,USA,Delaware,"44,081,415",4941 - Water supply
 ATROB,ASTRONICS CORP B,Pink Current,8.335,,1,Common Stock,USA,New York,"54,659,855","3728 - Aircraft parts and equipment, misc"
 AMNL,APPLIED MINERALS INC,Pink Current,0.0046,24.3243,4882840,Common Stock,USA,Utah,"1,688,051",1400 - Mining & Quarrying of Nonmetallic Minerals (No Fuels)
-AIFS,AGENT INFORMATION SFTWRE,Pink Current,1.5,,0,Common Stock,USA,California,"7,024,365","7370 - Services-Computer Programming, Data Processing, Etc."
+AIFS,AGENT INFORMATION SFTWRE,Pink Current,1.5,,0,Common Stock,USA,California,"7,024,365",.
 BBBK,BAKER BOYER BANCORP WALLA,Pink Current,70.8,,0,Common Stock,USA,Washington,"92,236,612",.
 BISA,BALTIC INTL USA INC,Pink Current,0.06,,0,Common Stock,USA,Texas,"658,546",.
 BKUT,BANK OF UTICA NY,Pink Current,540.0,,0,Common Stock,USA,New York,"27,000,000",.
@@ -26,7 +26,7 @@ BRBW,BRUNSWICK BANCORP,Pink Current,15.7,-0.9464,200,Common Stock,USA,New Jersey
 BHRB,BURKE & HERBERT BK & TR,Pink Current,2348.0,-0.0851,22,Common Stock,USA,Virginia,"435,807,584",.
 BURCA,BURNHAM HLDGS INC A,Pink Current,12.76,-1.8462,350,Common Stock,USA,Pennsylvania,"41,916,307",.
 BZYR,BURZYNSKI RESH INSTITUTE,Pink Current,0.03125,,0,Common Stock,USA,Texas,"4,107,764",.
-BUKS,BUTLER NATL CORP,OTCQB,0.65,1.5466,6705,Common Stock,USA,Kansas,"49,907,980",.
+BUKS,BUTLER NATL CORP,OTCQB,0.65,1.5466,6705,Common Stock,USA,Kansas,"49,907,980",7990 - Services-Miscellaneous Amusement & Recreation
 CAWW,CCA INDUS INC,Pink Current,1.2,,0,Common Stock,USA,New Jersey,"7,912,778",2844 - Toilet preparations
 CCFN,CCFNB BANCORP INC,Pink Current,48.99,,0,Common Stock,USA,Pennsylvania,"101,811,214",6022 - State commercial banks
 CPTP,CAPITAL PROPERTIES INC A,OTCQX U.S. Premier,11.65,3.0973,200,Common Stock,USA,Rhode Island,"76,888,975","6519 - Lessors of Real Property, NEC"
@@ -36,7 +36,7 @@ CZBT,CITZNS BANCORP OF VA INC,Pink Current,29.0,,1,Common Stock,USA,Virginia,"61
 CIWV,CITZNS FINCL CORP W VA,Pink Current,19.4,,0,Common Stock,USA,West Virginia,"33,087,883",6022 - State commercial banks
 CEFC,COMML NATL FINCL CRP MICH,Pink Current,10.75,,0,Common Stock,USA,Michigan,"42,627,007",6022 - State commercial banks
 CNAF,COMML NATL FINCL CORP PA,OTCQX U.S. Premier,14.75,-1.2056,646,Common Stock,USA,Pennsylvania,"42,199,057",6022 - State commercial banks
-CMTV,COMMUTY BANCORP VT,OTCQX U.S. Premier,18.25,,0,Common Stock,USA,Vermont,"98,644,207",6021 - National commercial banks
+CMTV,COMMUTY BANCORP VT,OTCQX U.S. Premier,18.25,,0,Common Stock,USA,Vermont,"98,644,207",.
 CNGA,CONAIR CORPORATION NY,Pink Current,0.66,,0,Common Stock,USA,New York,"3,888,121",.
 ACFN,ACORN ENERGY INC,OTCQB,0.47,13.9394,18519,Common Stock,USA,Delaware,"18,718,654",.
 DBRM,DAYBREAK OIL & GAS INC,Pink Current,0.041,7.3298,251684,Common Stock,USA,Washington,"15,774,151",.
@@ -47,7 +47,7 @@ ENZN,ENZON PHARMS INC,OTCQX U.S.,0.25,-3.8831,31731,Common Stock,USA,New Jersey,
 ENBP,ENB FINANCIAL CORP PA,OTCQX U.S. Premier,18.15,,20,Common Stock,USA,Pennsylvania,"101,897,494",.
 DHCC,DIAMONDHEAD CASINO CORP,Pink Current,0.52,32.9923,101,Common Stock,USA,Virginia,"19,826,108",.
 EXSR,EXCHANGE BK SANTA ROSA,Pink Current,115.0,-3.0844,163,Common Stock,USA,California,"197,149,560",.
-FFWC,FFW CORPORATION,Pink Current,47.9,1.9149,101,Common Stock,USA,Indiana,"54,651,792",.
+FFWC,FFW CORPORATION,Pink Current,47.9,1.9149,101,Common Stock,USA,Indiana,"54,651,792",6035 - Federal savings institutions
 FIDS,FNB INC,Pink Current,31.0,,0,Common Stock,USA,Ohio,"20,861,078",6021 - National commercial banks
 FMBL,FRMRS&MER BK LONG BCH CAL,OTCQX U.S.,7725.0,,0,Common Stock,USA,California,"957,475,125","6029 - Commercial banks, misc"
 FABP,FRMRS BANCORP (IND),Pink Current,46.0,,0,Common Stock,USA,Indiana,"95,923,064",6022 - State commercial banks
@@ -57,7 +57,7 @@ FBSI,FIRST BANCSHS INC MO,OTCQX U.S. Premier,18.25,,0,Common Stock,USA,Missouri,
 FBTT,FIRST BANKERS TRUSTSHARES,OTCQB,27.3,-2.4652,300,Common Stock,USA,Illinois,"81,585,531","6029 - Commercial banks, misc"
 FCNCB,FIRST CTZNS BANCSHS B,Pink Current,749.0,,0,Common Stock,USA,North Carolina,"752,883,565",6022 - State commercial banks
 FCIC,FCCC INC,OTCQB,1.65,,0,Common Stock,USA,California,"5,710,686",6770 - Blank Checks
-FKYS,FIRST KEYSTONE CORP,Pink Current,22.75,4.5977,496,Common Stock,USA,Pennsylvania,"136,075,963",6022 - State commercial banks
+FKYS,FIRST KEYSTONE CORP,Pink Current,22.75,4.5977,496,Common Stock,USA,Pennsylvania,"136,075,963",.
 FBAK,FIRST NB ALASKA,OTCQX U.S. Premier,246.95,0.4066,28,Common Stock,USA,Alaska,"782,062,251",.
 ELMA,ELMER BANCORP INC,Pink Current,17.55,,0,Common Stock,USA,New Jersey,"20,203,595",.
 FINN,FIRST NATL OF NEB INC,Pink Current,13850.0,0.0,2,Common Stock,USA,Nebraska,"3,617,149,100",.
@@ -68,7 +68,7 @@ HMLN,HAMLIN BK&TR SMETHPORT PA,Pink Current,275.0,,0,Common Stock,USA,Pennsylvan
 HFBK,HARFORD BK ABERDEEN MD,Pink Current,32.0,2.4,110,Common Stock,USA,Maryland,"46,737,216",.
 HBSI,HIGHLANDS BANKSHARES INC,Pink Current,43.86,,0,Common Stock,USA,West Virginia,"58,635,250",.
 HONT,HONAT BANCORP INC,Pink Current,127.0,,0,Common Stock,USA,Pennsylvania,"183,944,514",.
-WGEI,WINDGEN ENERGY INC,Pink Current,0.01,,0,Common Stock,USA,Arizona,"522,067",.
+WGEI,WINDGEN ENERGY INC,Pink Current,0.01,,0,Common Stock,USA,Arizona,"522,067",6794 - Patent owners and lessors
 INRD,INRAD OPTICS INC,Pink Current,1.79,15.4839,1185,Common Stock,USA,New Jersey,"25,137,543","3679 - Electronic components, misc"
 ITDN,INTERDYNE COMPANY,Pink Current,0.04,,0,Common Stock,USA,California,"1,599,998",6770 - Blank Checks
 IVRO,INVITRO INTL,Pink Current,0.065,,0,Common Stock,USA,California,"1,479,388",2835 - Diagnostic substances
@@ -91,8 +91,8 @@ MMTRS,MILLS MUSIC TRUST CBI,Pink Current,35.95,,0,Common Stock,USA,New York,"9,9
 MUEL,MUELLER PAUL CO,Pink Current,48.0,,0,Common Stock,USA,Missouri,"52,114,128",3443 - Fabricated plate work (boiler shop)
 MYBF,MUNCY BANK FINANCIAL INC,OTCQB,38.07,0.1842,200,Common Stock,USA,Pennsylvania,"61,230,189",6712 - Bank holding companies
 NCXS,NBC BANCORP INC,Pink Current,55.0,,0,Common Stock,USA,New York,"26,028,145",6021 - National commercial banks
-NACB,NATIONAL CAP BANCORP INC,Pink Current,175.0,,0,Common Stock,USA,Washington DC,"50,294,825",6021 - National commercial banks
-NSYC,NATL STK YDS CO,Pink Current,300.0,,0,Common Stock,USA,Oklahoma,"13,083,600",211 - Beef cattle feedlots
+NACB,NATIONAL CAP BANCORP INC,Pink Current,175.0,,0,Common Stock,USA,Washington DC,"50,294,825",.
+NSYC,NATL STK YDS CO,Pink Current,300.0,,0,Common Stock,USA,Oklahoma,"13,083,600",.
 NEFB,NEFFS BANCORP INC,Pink Current,450.0,,0,Common Stock,USA,Pennsylvania,"71,153,550",.
 NCRE,NEW CENTURY RESOURCES CRP,Pink Current,0.5,,0,Common Stock,Cyprus,,"6,240,862",.
 NTBP,NEW TRIPOLI BANCORP INC,Pink Current,1500.0,8.4599,3,Common Stock,USA,Pennsylvania,"94,900,500",6021 - National commercial banks
@@ -244,7 +244,7 @@ ECSL,ECARE SOLUTIONS INC,Pink Current,0.7,-6.6667,3940,Common Stock,USA,Florida,
 AAPJ,AAP INC,Pink Current,0.01,,0,Common Stock,USA,Wyoming,"1,824,781",100 - Agricultural Production-Crops
 BLDV,BLUE DIAMOND VENTURES INC,Pink Current,0.0008,0.0,615500,Common Stock,USA,Illinois,"3,896,469",100 - Agricultural Production-Crops
 ELTP,ELITE PHARMS INC,OTCQB,0.034,0.0,86584,Common Stock,USA,New Jersey,"34,473,113",2834 - Pharmaceutical preparations
-IENT,IENTERTAINMENT NTWRK INC,Pink Current,0.0495,32.0,32500,Common Stock,USA,North Carolina,"6,472,561",.
+IENT,IENTERTAINMENT NTWRK INC,Pink Current,0.0495,32.0,32500,Common Stock,USA,North Carolina,"6,472,561",7372 - Prepackaged software
 LSFG,LIFESTORE FINCL GRP INC,Pink Current,47.0,,0,Common Stock,USA,North Carolina,"48,433,171",6021 - National commercial banks
 MCPH,MIDLAND CAP HLDGS CORP,Pink Current,9.0,,4200,Common Stock,USA,Illinois,"3,353,400",6035 - Federal savings institutions
 HDII,HYPERTENSION DIAGNSTCS,Pink Current,0.0039,-9.3023,51125,Common Stock,Canada,Ontario,"1,110,648",3841 - Surgical and medical instruments
@@ -258,12 +258,12 @@ EFSG,ENTERPRISE FINL SVCS GP A,Pink Current,13.3,,0,Common Stock,USA,Pennsylvani
 TGLO,THEGLOBE.COM INC,Pink Current,0.472,22.2798,799089,Common Stock,USA,Texas,"208,378,783",7310 - Services-Advertising
 AASP,GLOBAL ACQUISITIONS CORP,Pink Current,0.31,-6.0606,6226,Common Stock,USA,Nevada,"1,754,018",5900 - Retail-Miscellaneous Retail
 CHIF,CHINA FOOD & BEVERAGE CO,Pink Current,0.131,,0,Common Stock,United Kingdom,England,"3,112,192","6799 - Investors, misc"
-PNBI,PIONEER BANKSHARES INC,Pink Current,26.1,,0,Common Stock,USA,Virginia,"26,129,858",.
-ALRT,ALR TECHS INC,OTCQB,0.0418,0.0,5000,Common Stock,USA,Virginia,"23,072,214",.
-ASPZ,ASIA PPTYS INC,Pink Current,0.026,,0,Common Stock,USA,Wyoming,"1,919,303",.
-MSBC,MISSION BANCORP,Pink Current,84.26,-2.0233,120,Common Stock,USA,California,"194,640,094",.
-IMCI,INFINITE GROUP INC,OTCQB,0.08,,0,Common Stock,USA,New York,"2,716,890",.
-QSEP,QS ENERGY INC,Pink Current,0.087,-4.343,127369,Common Stock,USA,Nevada,"31,626,882",.
+PNBI,PIONEER BANKSHARES INC,Pink Current,26.1,,0,Common Stock,USA,Virginia,"26,129,858",6021 - National commercial banks
+ALRT,ALR TECHS INC,OTCQB,0.0418,0.0,5000,Common Stock,USA,Virginia,"23,072,214","3669 - Communications equipment, misc"
+ASPZ,ASIA PPTYS INC,Pink Current,0.026,,0,Common Stock,USA,Wyoming,"1,919,303",1041 - Gold ores
+MSBC,MISSION BANCORP,Pink Current,84.26,-2.0233,120,Common Stock,USA,California,"194,640,094",6021 - National commercial banks
+IMCI,INFINITE GROUP INC,OTCQB,0.08,,0,Common Stock,USA,New York,"2,716,890",7372 - Prepackaged software
+QSEP,QS ENERGY INC,Pink Current,0.087,-4.343,127369,Common Stock,USA,Nevada,"31,626,882",3533 - Oil and gas field machinery
 PSGR,PERSHING RESOURCES CO INC,Pink Current,0.055,-21.4286,211186,Common Stock,USA,Nevada,"20,646,319",.
 TIPS,TIANRONG INTERNET PROD SV,Pink Current,0.2095,-0.143,83187,Common Stock,United Kingdom,,"17,738,974",3390 - Miscellaneous Primary Metal Products
 HGTXU,HUGOTON ROYALTY TR UBI,OTCQB,2.1,-9.8712,135300,Common Stock,USA,Texas,"84,000,000",6792 - Oil Royalty traders
@@ -345,13 +345,13 @@ ALSI,ATLAS RESOURCES INTL INC,Pink Current,0.0311,55.5,14200,Common Stock,USA,Ut
 CCAJ,COASTAL CAPITAL ACQSTN CP,Pink Current,0.0034,9.6774,426878,Common Stock,USA,Florida,"3,229,113","6552 - Subdivisers and developers, misc"
 UPDC,UPD HOLDING CORP.,Pink Current,0.021,,9,Common Stock,USA,Nevada,"4,094,632",6770 - Blank Checks
 BORT,BANK OF BOTETOURT BUCH VA,Pink Current,27.84,,0,Common Stock,USA,Virginia,"53,955,312",6021 - National commercial banks
-EKCS,ELECTRONIC CNTRL SEC INC,Pink Current,0.0498,,0,Common Stock,USA,New Jersey,"1,347,774",.
-RSCF,REFLECT SCIENTIFIC INC,OTCQB,0.069,0.0,56001,Common Stock,USA,Utah,"5,864,247",.
-WDFN,WOODLANDS FINL SVCS CO,Pink Current,28.5,,0,Common Stock,USA,Pennsylvania,"39,699,588",.
-YUMM,YUMMIES INC,Pink Current,5.0,,1,Common Stock,Taiwan,,"2,248,132,500",.
-PCSV,PCS EDVENTURES!.COM INC,Pink Current,0.045,,0,Common Stock,USA,Idaho,"5,646,712",.
-VMCS,VISUALMED CLINICAL SLTNS,Pink Current,0.008,3.8961,536500,Common Stock,USA,Florida,"1,879,626",.
-RSHN,RUSHNET INC,Pink Current,0.0024,0.0,6814425,Common Stock,USA,Georgia,"19,619,140",.
+EKCS,ELECTRONIC CNTRL SEC INC,Pink Current,0.0498,,0,Common Stock,USA,New Jersey,"1,347,774","3669 - Communications equipment, misc"
+RSCF,REFLECT SCIENTIFIC INC,OTCQB,0.069,0.0,56001,Common Stock,USA,Utah,"5,864,247",3821 - Laboratory apparatus and furniture
+WDFN,WOODLANDS FINL SVCS CO,Pink Current,28.5,,0,Common Stock,USA,Pennsylvania,"39,699,588",6021 - National commercial banks
+YUMM,YUMMIES INC,Pink Current,5.0,,1,Common Stock,Taiwan,,"2,248,132,500",6770 - Blank Checks
+PCSV,PCS EDVENTURES!.COM INC,Pink Current,0.045,,0,Common Stock,USA,Idaho,"5,646,712",8200 - Services-Educational Services
+VMCS,VISUALMED CLINICAL SLTNS,Pink Current,0.008,3.8961,536500,Common Stock,USA,Florida,"1,879,626",7373 - Computer integrated systems design
+RSHN,RUSHNET INC,Pink Current,0.0024,0.0,6814425,Common Stock,USA,Georgia,"19,619,140","8748 - Business consulting, misc"
 CBCYB,CENTRAL BANCO B NON VTG,Pink Current,620.0,,0,Common Stock,USA,Missouri,"1,779,440,300",Not Available
 AHFI,ABSOLUTE HEALTH & FITNESS,Pink Current,0.021,,0,Common Stock,USA,Nevada,"1,766,331","6719 - Holding companies, misc"
 GDSI,GLOBAL DIGITAL SLTNS INC,Pink Current,0.006,-22.0779,8855,Common Stock,USA,Florida,"4,759,013",2844 - Toilet preparations
@@ -388,7 +388,7 @@ WSSH,WEST SHORE BANK CORP,Pink Current,31.0,,0,Common Stock,USA,Michigan,"38,917
 FBPA,FRMRS BK APPOMATTO,OTCQB,27.26,,0,Common Stock,USA,Virginia,"29,540,572","6029 - Commercial banks, misc"
 DWNX,DELHI BANK CORP,Pink Current,20.25,0.0,500,Common Stock,USA,New York,"68,147,548",6021 - National commercial banks
 HSTI,HIGH SIERRA TECH,OTCQB,1.45,,0,Common Stock,USA,Nevada,"29,717,235",6770 - Blank Checks
-MACE,MACE SECURITY INTL INC,OTCQX U.S.,0.13875,-6.8792,164361,Common Stock,USA,Ohio,"8,996,137",.
+MACE,MACE SECURITY INTL INC,OTCQX U.S.,0.13875,-6.8792,164361,Common Stock,USA,Ohio,"8,996,137",2860 - Industrial Organic Chemicals
 CCFC,CCSB FINANCIAL CORP,Pink Current,18.21,,0,Common Stock,USA,Missouri,"13,629,657",6712 - Bank holding companies
 WAYN,WAYNE SAVINGS BNCSHS INC,OTCQX U.S. Premier,23.5,-4.1208,3304,Common Stock,USA,Ohio,"51,496,443",6035 - Federal savings institutions
 UWHR,UWHARRIE CAPITAL CORP,OTCQX U.S.,7.02,0.2857,762,Common Stock,USA,North Carolina,"48,653,633",6022 - State commercial banks
@@ -396,8 +396,8 @@ BURCB,BURNHAM HLDGS INC B,Pink Current,13.3,,0,Common Stock,USA,Pennsylvania,"17
 DEQI,DIRECT EQUITY INTL INC,Pink Current,0.009,,0,Common Stock,USA,California,"8,356,059","7389 - Business services, misc"
 PCLI,PROTOCALL TECHS INC,Pink Current,0.0007,0.0,559350,Common Stock,USA,Idaho,"1,056,460","7389 - Business services, misc"
 SUWN,SUNWIN STEVIA INTL INC,Pink Current,0.0102,,0,Common Stock,China,,"2,036,255",2834 - Pharmaceutical preparations
-MVLY,MISSION VALLEY BANCORP,OTCQX U.S. Premier,13.75,-3.169,18200,Common Stock,USA,California,"44,660,957",.
-APLO,APOLLO BANCORP INC,Pink Current,54.0,,0,Common Stock,USA,Pennsylvania,"28,067,202",.
+MVLY,MISSION VALLEY BANCORP,OTCQX U.S. Premier,13.75,-3.169,18200,Common Stock,USA,California,"44,660,957","6029 - Commercial banks, misc"
+APLO,APOLLO BANCORP INC,Pink Current,54.0,,0,Common Stock,USA,Pennsylvania,"28,067,202","6029 - Commercial banks, misc"
 LLLI,LAMPERD LESS LETHAL INC,Pink Current,0.0062,,0,Common Stock,Canada,Ontario,"1,591,730","3480 - Ordnance & Accessories, (No Vehicles/Guided Missiles)"
 SRYB,SURREY BANCORP (NC),Pink Current,14.01,,0,Common Stock,USA,North Carolina,"57,257,301",6022 - State commercial banks
 MRDH,MERIDIAN HOLDINGS INC,Pink Current,0.03184,,0,Common Stock,USA,California,"1,897,000",5734 - Computer and software stores
@@ -408,9 +408,9 @@ PSGI,PERFECT SOLUTIONS GROUP,Pink Current,0.0649,,0,Common Stock,USA,Rhode Islan
 FIBH,FIRST BANCSHARES INC OH,Pink Current,40.5,,0,Common Stock,USA,Ohio,"21,773,570",Not Available
 TVOG,TURNER VALLEY OIL&GAS INC,Pink Current,0.005,42.8571,18000,Common Stock,USA,Texas,"1,064,794","5122 - Drugs, proprietaries, and sundries"
 GRST,ETHEMA HEALTH CORPORATION,Pink Current,0.00045,0.0,3450000,Common Stock,USA,Florida,"1,678,074",8062 - General medical and surgical hospitals
-CBOBA,BAY COMMUNITY BANCORP,Pink Current,8.5,1.1905,1700,Common Stock,USA,California,"72,540,768",.
-PCMC,PUBLIC COMPANY MGMT CORP,Pink Current,0.1015,,0,Common Stock,USA,California,"3,479,097",.
-IVDN,INNOVATIVE DESIGNS INC,OTCQB,0.199,,0,Common Stock,USA,Pennsylvania,"6,860,636",.
+CBOBA,BAY COMMUNITY BANCORP,Pink Current,8.5,1.1905,1700,Common Stock,USA,California,"72,540,768",6022 - State commercial banks
+PCMC,PUBLIC COMPANY MGMT CORP,Pink Current,0.1015,,0,Common Stock,USA,California,"3,479,097",6770 - Blank Checks
+IVDN,INNOVATIVE DESIGNS INC,OTCQB,0.199,,0,Common Stock,USA,Pennsylvania,"6,860,636",2390 - Miscellaneous Fabricated Textile Products
 DWIS,DINEWISE INC,Pink Current,0.0275,,0,Common Stock,USA,Georgia,"3,980,129",.
 SFDL,SECURITY FEDERAL CORP,Pink Current,26.0,-1.8868,401,Common Stock,USA,South Carolina,"84,574,984",.
 HMNU,HUMAN UNITEC INTL INC,Pink Current,0.0047,-9.6154,7271572,Common Stock,USA,New York,"4,210,871",.
@@ -440,8 +440,8 @@ BCSO,BANCORP SOUTHERN INDIANA,Pink Current,57.25,,0,Common Stock,USA,Indiana,"77
 BERK,BERKSHIRE BANCORP INC,OTCQB,11.33,,0,Common Stock,USA,New York,"163,335,523",6022 - State commercial banks
 GMZP,GEMZ CORP,Pink Current,0.0028,27.2727,49900,Common Stock,USA,Nevada,"2,293,185","6719 - Holding companies, misc"
 OWUV,ONE WORLD UNIVERSE INC,Pink Current,0.052,-2.8037,874390,Common Stock,USA,California,"10,098,451",4941 - Water supply
-XCRT,XCELERATE INC,OTCQB,0.0499,11.1359,26833,Common Stock,USA,South Carolina,"19,034,159",.
-RWGI,RODEDAWG INTL INDUS INC,Pink Current,0.029,-1.6949,30635,Common Stock,USA,Wyoming,"5,256,939",.
+XCRT,XCELERATE INC,OTCQB,0.0499,11.1359,26833,Common Stock,USA,South Carolina,"19,034,159",3843 - Dental equipment and supplies
+RWGI,RODEDAWG INTL INDUS INC,Pink Current,0.029,-1.6949,30635,Common Stock,USA,Wyoming,"5,256,939","8748 - Business consulting, misc"
 SPZI,SPOOZ INC,Pink Current,0.0005,0.0,11330118,Common Stock,USA,Florida,"2,747,955",7372 - Prepackaged software
 DKSC,DAKSHIDIN CORP,Pink Current,0.0016,6.6667,1081528,Common Stock,USA,California,"4,833,216","5122 - Drugs, proprietaries, and sundries"
 APWL,ADVANCED PWRLN TECHS INC,Pink Current,0.0359,-11.1386,4100,Common Stock,USA,California,"7,337,658",3630 - Household Appliances
@@ -455,9 +455,9 @@ NHLG,NATL HEALTHCARE LOGISTICS,Pink Current,0.022,,0,Common Stock,USA,Tennessee,
 IWSH,WRIGHT INVESTORS SERVICE,Pink Current,0.165,,0,Common Stock,USA,New York,"3,394,814",6282 - Investment advice
 BEOB,BEO BANCORP,Pink Current,40.0,,0,Common Stock,USA,Oregon,"50,451,360","6029 - Commercial banks, misc"
 ITRX,INTERRA RESOURCES CORP,Pink Current,0.098,,0,Common Stock,USA,California,"30,292,261",1000 - Metal Mining
-FDVA,FREEDOM FINL HLDGS INC,OTCQX U.S. Premier,14.6,,0,Common Stock,USA,Virginia,"96,485,648",.
-RCAR,RENOVACARE INC,Pink Current,0.05125,2.5,1043,Common Stock,USA,Arizona,"4,476,809",.
-SFIO,STARFLEET INNOTECH INC,Pink Current,0.0136,-6.2069,292121,Common Stock,USA,New York,"17,053,757",.
+FDVA,FREEDOM FINL HLDGS INC,OTCQX U.S. Premier,14.6,,0,Common Stock,USA,Virginia,"96,485,648","6029 - Commercial banks, misc"
+RCAR,RENOVACARE INC,Pink Current,0.05125,2.5,1043,Common Stock,USA,Arizona,"4,476,809",3841 - Surgical and medical instruments
+SFIO,STARFLEET INNOTECH INC,Pink Current,0.0136,-6.2069,292121,Common Stock,USA,New York,"17,053,757","6719 - Holding companies, misc"
 PVBK,PACIFIC VALLEY BANCORP,Pink Current,11.27,,0,Common Stock,USA,California,"45,392,247",.
 VLXC,VELTEX CORP,OTCQB,0.35,-0.5682,10200,Common Stock,USA,Illinois,"28,939,754",.
 UVSS,UNIVERSAL SYSTEMS INC,Pink Current,0.0053,,0,Common Stock,USA,Wyoming,"1,516,060",.
@@ -488,7 +488,7 @@ MTPP,MOUNTAIN TOP PPTYS INC,Pink Current,0.0261,,0,Common Stock,USA,Texas,"6,527
 CBCY,CENTRAL BANCOMPANY,Pink Current,649.0,,0,Common Stock,USA,Missouri,"1,003,416,953",Not Available
 CYIO,CYIOS CORP,Pink Current,0.047,11.9048,2611874,Common Stock,USA,Florida,"6,652,766","7389 - Business services, misc"
 HPNN,HOP-ON INC,Pink Current,0.0008,0.0,3647000,Common Stock,USA,California,"5,972,680","4813 - Telephone communication, except radio"
-REMI,REMEDENT INC,Pink Current,0.17,,0,Common Stock,Belgium,,"3,399,315",.
+REMI,REMEDENT INC,Pink Current,0.17,,0,Common Stock,Belgium,,"3,399,315",3843 - Dental equipment and supplies
 EGYF,ENERGY FINDERS INC,Pink Current,0.08,0.3764,100,Common Stock,United Kingdom,,"9,838,909",8731 - Commercial physical research
 NIDB,NORTHEAST INDIANA BNCRP,OTCQB,42.25,,0,Common Stock,USA,Indiana,"50,916,954",6022 - State commercial banks
 ALOD,ALLIED RESOURCES INC,Pink Current,0.289,,0,Common Stock,USA,Utah,"1,633,720",1311 - Crude petroleum and natural gas
@@ -502,10 +502,10 @@ PTOS,P2 SOLAR INC,Pink Current,0.0235,,0,Common Stock,Canada,British Columbia,"1
 BDCM,BROADCAST MKTNG GROUP INC,Pink Current,0.13995,,0,Common Stock,USA,Wyoming,"1,371,516","7389 - Business services, misc"
 CSOL,CHINA SLR&CLN ENGY SLTNS,Pink Current,0.015,,0,Common Stock,USA,Florida,"828,505","3433 - Heating equipment, except electric"
 HLFN,HOME LOAN FINCL CORP,Pink Current,32.13,,0,Common Stock,USA,Ohio,"45,099,853","6036 - Savings institutions, except federal"
-PGNN,PARAGON FINCL SLTNS INC,Pink Current,9.9899,,0,Common Stock,USA,Tennessee,"43,835,731",.
-CYDY,CYTODYN INC,OTCQB,0.59647,26.237,3536568,Common Stock,USA,Washington,"484,381,111",.
-ANSU,AMANASU TECHNOLOGIES CORP,Pink Current,0.0051,,0,Common Stock,USA,New York,"239,477",.
-ATYG,ATLAS TECH GROUP INC,Pink Current,0.0004,0.0,1130000,Common Stock,USA,Colorado,"2,340,282",.
+PGNN,PARAGON FINCL SLTNS INC,Pink Current,9.9899,,0,Common Stock,USA,Tennessee,"43,835,731",6021 - National commercial banks
+CYDY,CYTODYN INC,OTCQB,0.59647,26.237,3536568,Common Stock,USA,Washington,"484,381,111",2834 - Pharmaceutical preparations
+ANSU,AMANASU TECHNOLOGIES CORP,Pink Current,0.0051,,0,Common Stock,USA,New York,"239,477","3751 - Motorcycles, bicycles, and parts"
+ATYG,ATLAS TECH GROUP INC,Pink Current,0.0004,0.0,1130000,Common Stock,USA,Colorado,"2,340,282",7374 - Data processing and preparation
 NXMR,NEXTMART INC,Pink Current,0.0173,1.7647,1549217,Common Stock,USA,Texas,"4,531,449",.
 CIBN,COMMUTY INV BANCORP INC,Pink Current,17.0,,0,Common Stock,USA,Ohio,"13,518,264",.
 TSSI,TSS INC,OTCQB,0.59,2.085,18097,Common Stock,USA,Texas,"13,066,193",.
@@ -545,11 +545,11 @@ NNRI,NNRF INC,Pink Current,0.005,,0,Common Stock,USA,Nevada,"1,644,608",5052 - C
 GVYB,GOLDEN VY BANCSHARES INC,Pink Current,16.8,,0,Common Stock,USA,California,"37,643,558","6029 - Commercial banks, misc"
 XCPT,XCANA PETROLEUM CORP,Pink Current,0.1489,,0,Common Stock,USA,Illinois,"13,301,535",Not Available
 WWII,WORLD OF WIRELESS INTL,Pink Current,0.05375,7.5,19700,Common Stock,USA,California,"5,533,992","4899 - Communication services, misc"
-ABTO,AB&T FINCL CORP (NC),Pink Current,0.6,,0,Common Stock,USA,North Carolina,"18,859,835",.
-WOWI,METRO ONE TELECOMMUNS INC,Pink Current,0.08645,,0,Common Stock,Israel,,"22,297,245",.
-HPST,HEMPSTRACT INC,Pink Current,0.01535,,0,Common Stock,USA,Washington,"1,441,308",.
-PRLE,PILLARSTONE CAPITAL REIT,Pink Current,1.31,,0,Common Stock,USA,Texas,"851,960",.
-ARBV,AMERICAN RIVIERA BANCORP,OTCQX U.S. Premier,17.3,,0,Common Stock,USA,California,"89,499,353",.
+ABTO,AB&T FINCL CORP (NC),Pink Current,0.6,,0,Common Stock,USA,North Carolina,"18,859,835",6021 - National commercial banks
+WOWI,METRO ONE TELECOMMUNS INC,Pink Current,0.08645,,0,Common Stock,Israel,,"22,297,245","4899 - Communication services, misc"
+HPST,HEMPSTRACT INC,Pink Current,0.01535,,0,Common Stock,USA,Washington,"1,441,308",1382 - Oil and gas exploration services
+PRLE,PILLARSTONE CAPITAL REIT,Pink Current,1.31,,0,Common Stock,USA,Texas,"851,960",6798 - Real estate investment trusts
+ARBV,AMERICAN RIVIERA BANCORP,OTCQX U.S. Premier,17.3,,0,Common Stock,USA,California,"89,499,353",6022 - State commercial banks
 SKRJ,SILK ROAD ENTMT INC,Pink Current,0.101,,0,Common Stock,USA,Nevada,"3,746,255",.
 DFCO,DALRADA FINCL CORP,OTCQB,0.115,-4.1667,256329,Common Stock,USA,California,"9,198,579",7363 - Help supply services
 BTTC,BITECH TECHNOLOGIES CORP,OTCQB,0.15,0.0,700,Common Stock,USA,California,"75,903,308",8060 - Services-Hospitals
@@ -606,9 +606,9 @@ CVAT,CAVITATION TECHS INC,OTCQB,0.0379,0.0,1000,Common Stock,USA,California,"10,
 BKOR,OAK RIDGE FINCL SVCS INC,Pink Current,18.56,-0.5359,707,Common Stock,USA,North Carolina,"50,155,987",6021 - National commercial banks
 FSMK,1ST SUMMIT BNCRP JOHNTOWN,Pink Current,69.0,,0,Common Stock,USA,Pennsylvania,"151,062,390",6022 - State commercial banks
 SIPN,SIPP INTL INDUSTRIES INC,Pink Current,0.02,,0,Common Stock,Australia,New South Wales,"14,810,122",9224 - Fire protection
-BRZV,BREEZER VENTURES INC,Pink Current,0.0455,-16.9708,12500,Common Stock,USA,Nevada,"8,511,869",.
-GLNS,GOLDEN STAR RES CORP,OTCQB,2.6,,0,Common Stock,USA,Nevada,"18,382,000",.
-YTFD,YACHT FINDERS INC,Pink Current,8.0,,0,Common Stock,USA,New York,"41,592,000",.
+BRZV,BREEZER VENTURES INC,Pink Current,0.0455,-16.9708,12500,Common Stock,USA,Nevada,"8,511,869",5812 - Eating places
+GLNS,GOLDEN STAR RES CORP,OTCQB,2.6,,0,Common Stock,USA,Nevada,"18,382,000",1090 - Miscellaneous Metal Ores
+YTFD,YACHT FINDERS INC,Pink Current,8.0,,0,Common Stock,USA,New York,"41,592,000",6770 - Blank Checks
 AURI,AURI INC,Pink Current,0.0007,0.0,1437586,Common Stock,USA,Wyoming,"1,406,330",.
 FISB,1ST CAP BANCORP,OTCQX U.S. Premier,11.15,-1.3274,553,Common Stock,USA,California,"60,891,744",.
 DVLP,GOLDEN DEVELOPING SOL,Pink Current,0.0056,-8.1967,6458138,Common Stock,USA,Florida,"5,041,836",.
@@ -635,12 +635,12 @@ PEBC,PEOPLES BANCORP INC MD,Pink Current,30.01,,0,Common Stock,USA,Maryland,"21,
 LUVU,LUVU BRANDS INC,OTCQB,0.0947,4.6524,2000,Common Stock,USA,Georgia,"7,201,580",2510 - Household Furniture
 MSTO,MASTERBEAT CORP,Pink Current,0.0007,0.0,28006,Common Stock,USA,Georgia,"885,804",5960 - Retail-Nonstore Retailers
 EVCI,EVCI CAREER COLLEGES HDG,Pink Current,0.241,,0,Common Stock,USA,Wyoming,"1,243,542",8200 - Services-Educational Services
-BRAV,BRAVADA INTL LTD,Pink Current,0.0013,,0,Common Stock,USA,California,"2,436,937",.
-NWYF,NORTHWAY FINCL INC,OTCQB,27.0,,0,Common Stock,USA,New Hampshire,"74,294,550",.
-CDBT,CHINA DASHENG BIOTECH CO,Pink Current,0.0965,,0,Common Stock,Australia,Queensland,"3,954,184",.
-OMTK,OMNITEK ENGINEERING CORP,OTCQB,0.047,0.0,100,Common Stock,USA,California,"1,031,560",.
-SLRK,SOLERA NATL BNCRP INC CO,Pink Current,9.56,-4.4,2320,Common Stock,USA,Colorado,"41,107,551",.
-MCIC,MULTICORP INTL INC,Pink Current,0.0035,-28.5714,962695,Common Stock,USA,California,"4,593,355",.
+BRAV,BRAVADA INTL LTD,Pink Current,0.0013,,0,Common Stock,USA,California,"2,436,937",5960 - Retail-Nonstore Retailers
+NWYF,NORTHWAY FINCL INC,OTCQB,27.0,,0,Common Stock,USA,New Hampshire,"74,294,550",6021 - National commercial banks
+CDBT,CHINA DASHENG BIOTECH CO,Pink Current,0.0965,,0,Common Stock,Australia,Queensland,"3,954,184",5912 - Drugstores and Proprietary Stores
+OMTK,OMNITEK ENGINEERING CORP,OTCQB,0.047,0.0,100,Common Stock,USA,California,"1,031,560",3714 - Motor vehicle parts and accessories
+SLRK,SOLERA NATL BNCRP INC CO,Pink Current,9.56,-4.4,2320,Common Stock,USA,Colorado,"41,107,551",6021 - National commercial banks
+MCIC,MULTICORP INTL INC,Pink Current,0.0035,-28.5714,962695,Common Stock,USA,California,"4,593,355",5047 - Medical and hospital equipment
 CRVW,CAREVIEW COMMUNS INC,OTCQB,0.0585,,0,Common Stock,USA,Texas,"8,153,774",3663 - Radio and TV communications equipment
 SIPC,SIPP INDUSTRIES INC NEW,Pink Current,0.0051,0.0,57500,Common Stock,USA,California,"2,219,654",5182 - Wine and distilled beverages
 TGMR,TROY GOLD & MINERAL CORP,Pink Current,0.3,,0,Common Stock,USA,California,"187,879",1040 - Gold and Silver Ores
@@ -651,9 +651,9 @@ TGGI,TRANS GLOBAL GROUP INC,Pink Current,0.01185,-2.8689,16877474,Common Stock,C
 TPCS,TECHPRECISION CORP,OTCQB,1.49,1.0169,130,Common Stock,USA,Massachusetts,"51,118,101",3440 - Fabricated Structural Metal Products
 JNSH,JNS HOLDINGS CORP,Pink Current,0.00475,-1.0417,397125,Common Stock,USA,Illinois,"1,506,886",7200 - Services-Personal Services
 PTCP,PETROCORP INC,Pink Current,3.0,,0,Common Stock,USA,New York,"68,040,000",1311 - Crude petroleum and natural gas
-BMCS,BIOTECH MEDICS INC,Pink Current,0.031,3.3333,36553,Common Stock,USA,California,"6,273,042",.
-CMUV,CMUV BANCORP,OTCQB,14.1,,0,Common Stock,USA,California,"26,218,682",.
-NRPI,NRP STONE INC,Pink Current,0.04,-32.9983,7600,Common Stock,USA,Utah,"12,529,868",.
+BMCS,BIOTECH MEDICS INC,Pink Current,0.031,3.3333,36553,Common Stock,USA,California,"6,273,042",8049 - Offices health practitioners
+CMUV,CMUV BANCORP,OTCQB,14.1,,0,Common Stock,USA,California,"26,218,682","6029 - Commercial banks, misc"
+NRPI,NRP STONE INC,Pink Current,0.04,-32.9983,7600,Common Stock,USA,Utah,"12,529,868",Not Available
 GPLS,GEOPULSE EXPLORATIONS INC,Pink Current,0.02845,9.4231,24700,Common Stock,USA,California,"2,544,269","1389 - Oil and gas field services, misc"
 GBHL,GLOBAL ENTMT HOLDINGS INC,Pink Current,0.001,0.0,45155,Common Stock,USA,Nevada,"1,241,015",7812 - Motion picture and video production
 VPRB,VPR BRANDS LP,Pink Current,0.0685,-0.7246,32000,Common Stock,USA,Florida,"6,083,076",7372 - Prepackaged software
@@ -679,12 +679,12 @@ KLYG,KELYNIAM GLOBAL INC,Pink Current,0.1001,0.0,5000,Common Stock,USA,Connectic
 TSOI,THERAPEUTIC SLTNS INTL,Pink Current,0.0153,30.2128,8068224,Common Stock,USA,Idaho,"39,256,780",3841 - Surgical and medical instruments
 TPII,TRIAD PRO INNOVATORS INC,Pink Current,0.007,9.375,1127873,Common Stock,USA,Nevada,"2,340,293",.
 MNTR,MENTOR CAPITAL INC,OTCQB,0.06,9.0909,63086,Common Stock,USA,Texas,"1,376,481",.
-EAWD,ENERGY & WTR DEV CORP,OTCQB,0.075,19.0476,347890,Common Stock,USA,Florida,"13,340,255",.
-UTRK,UNIVERSAL TRACKING SLTNS,Pink Current,0.03225,46.5909,33085,Common Stock,USA,Florida,"713,511",.
-CATV,4CABLE TV INTL INC,Pink Current,0.0002,0.0,55369,Common Stock,USA,Florida,"724,838",.
-FRMA,FIRMA HOLDINGS CORP,Pink Current,0.0348,,0,Common Stock,USA,Illinois,"13,673,381",.
+EAWD,ENERGY & WTR DEV CORP,OTCQB,0.075,19.0476,347890,Common Stock,USA,Florida,"13,340,255",3585 - Refrigeration and heating equipment
+UTRK,UNIVERSAL TRACKING SLTNS,Pink Current,0.03225,46.5909,33085,Common Stock,USA,Florida,"713,511","4789 - Transportation services, misc"
+CATV,4CABLE TV INTL INC,Pink Current,0.0002,0.0,55369,Common Stock,USA,Florida,"724,838",3663 - Radio and TV communications equipment
+FRMA,FIRMA HOLDINGS CORP,Pink Current,0.0348,,0,Common Stock,USA,Illinois,"13,673,381",1000 - Metal Mining
 CUBV,CUBA BEVERAGE CO,Pink Current,0.001,0.0,15513830,Common Stock,USA,California,"8,412,642",.
-ORPB,OREGON PACIFIC BNCRP,Pink Current,6.39,-4.0541,6127,Common Stock,USA,Oregon,"48,714,395",.
+ORPB,OREGON PACIFIC BNCRP,Pink Current,6.39,-4.0541,6127,Common Stock,USA,Oregon,"48,714,395",6022 - State commercial banks
 FBPI,FIRST BANCORP INDIANA,Pink Current,18.3,,0,Common Stock,USA,Indiana,"31,006,825",6022 - State commercial banks
 JADA,JADE ART GROUP INC,Pink Current,0.009275,2.9412,1500,Common Stock,USA,Alabama,"4,268,614",8742 - Management consulting services
 CLCN,CREATIVE LEARNING CORP,Pink Current,0.048,,0,Common Stock,USA,Pennsylvania,"5,053,758",.
@@ -699,8 +699,8 @@ GTHR,GENETHERA INC,Pink Current,0.0214,,0,Common Stock,USA,Colorado,"756,133","2
 BEGI,BLACKSTAR ENTERPRISE GRP,Pink Current,0.0012,9.0909,2603800,Common Stock,USA,Colorado,"373,574",6153 - Short-term business credit
 TMAK,TOUCHMARK BANCSHARES INC,Pink Current,10.94,,0,Common Stock,USA,Georgia,"48,966,248",6021 - National commercial banks
 TSPG,TGI SOLAR POWER GROUP INC,Pink Current,0.0031,8.7719,921528,Common Stock,USA,Florida,"5,285,612","7389 - Business services, misc"
-CBMJ,CONSERVATIVE BDCST & MDIA,Pink Current,0.01445,11.1538,106609,Common Stock,USA,Georgia,"6,057,282",.
-SODE,SOCIAL DETENTION INC,Pink Current,0.0351,,0,Common Stock,USA,California,"6,941,142",.
+CBMJ,CONSERVATIVE BDCST & MDIA,Pink Current,0.01445,11.1538,106609,Common Stock,USA,Georgia,"6,057,282",7310 - Services-Advertising
+SODE,SOCIAL DETENTION INC,Pink Current,0.0351,,0,Common Stock,USA,California,"6,941,142",Not Available
 ABBB,AUBURN BANCORP INC,Pink Current,11.5,-6.1224,100,Common Stock,USA,Maine,"5,787,766",6035 - Federal savings institutions
 PPSF,PEOPLES-SIDNEY FINCL CORP,Pink Current,19.6501,,1,Common Stock,USA,Ohio,"22,932,158",.
 NRCD,NASHVILLE RECORDS INC,Pink Current,0.1011,-94.945,105,Common Stock,USA,Nevada,"10,122,888","7370 - Services-Computer Programming, Data Processing, Etc."
@@ -727,12 +727,12 @@ AWSL,ATLANTIC POWER & INFRASTR,Pink Current,0.1,11.1111,131789,Common Stock,USA,
 SSFT,SONASOFT CORP,OTCQB,0.037,-3.8961,203896,Common Stock,USA,California,"27,958,056",7372 - Prepackaged software
 CHHE,CHINA HEALTH INDS HLDGS,OTCQB,0.02,,0,Common Stock,China,,"1,310,795",2834 - Pharmaceutical preparations
 SNMN,SNM GLOBAL HOLDINGS,Pink Current,0.0006,-14.2857,56450731,Common Stock,USA,Florida,"1,525,410","6719 - Holding companies, misc"
-RXMD,PROGRESSIVE CARE INC,OTCQB,0.03705,6.1605,1357784,Common Stock,USA,Florida,"23,297,451",.
-VNTA,VENTANA BIOTECH INC,Pink Current,0.0031,,0,Common Stock,USA,Colorado,"3,334,565",.
-BWVI,BLUE WATER VENTURES INC,Pink Current,0.1819,1.8477,34105,Common Stock,USA,Florida,"46,698,721",.
-ESYL,EASYLINK SOLUTIONS CORP,Pink Current,0.004,0.0,125,Common Stock,Israel,,"22,390,191",.
-PREC,PRESTIGE CARS INTL,Pink Current,0.025,,0,Common Stock,USA,Florida,"951,942",.
-FMBV,FULL MOTION BEVERAGE INC,Pink Current,0.0117,,0,Common Stock,USA,New York,"2,209,056",.
+RXMD,PROGRESSIVE CARE INC,OTCQB,0.03705,6.1605,1357784,Common Stock,USA,Florida,"23,297,451",5912 - Drugstores and Proprietary Stores
+VNTA,VENTANA BIOTECH INC,Pink Current,0.0031,,0,Common Stock,USA,Colorado,"3,334,565",6163 - Loan brokers
+BWVI,BLUE WATER VENTURES INC,Pink Current,0.1819,1.8477,34105,Common Stock,USA,Florida,"46,698,721",2834 - Pharmaceutical preparations
+ESYL,EASYLINK SOLUTIONS CORP,Pink Current,0.004,0.0,125,Common Stock,Israel,,"22,390,191",7376 - Computer facilities management
+PREC,PRESTIGE CARS INTL,Pink Current,0.025,,0,Common Stock,USA,Florida,"951,942",5012 - Automobiles and other vehicles
+FMBV,FULL MOTION BEVERAGE INC,Pink Current,0.0117,,0,Common Stock,USA,New York,"2,209,056",2086 - Bottled and canned soft drinks
 UAMM,UA MULTIMEDIA INC,Pink Current,0.0082,-3.5294,642263,Common Stock,USA,California,"2,670,330","7379 - Computer related services, misc"
 PEYE,PRECISION OPTICS CORP NEW,OTCQB,1.99,3.1088,805,Common Stock,USA,Massachusetts,"33,661,027",3845 - Electromedical equipment
 NHMD,NATE'S FOOD CO,Pink Current,0.00135,-3.5714,875524,Common Stock,USA,California,"783,033",2040 - Grain Mill Products
@@ -747,12 +747,12 @@ EQLB,EQ LABS INC,Pink Current,0.0015,25.0,10000,Common Stock,USA,Nevada,"3,469,9
 PDPG,PERFORMANCE DRINK GROUP,Pink Current,0.0046,-5.1546,10000,Common Stock,USA,Colorado,"1,907,695",Not Available
 FNEC,FIRST NATIONAL ENERGY CRP,Pink Current,0.55,,0,Common Stock,USA,Florida,"55,264,125",4911 - Electric services
 BONZ,BONANZA GOLDFIELDS CORP,Pink Current,0.0019,-17.3913,20000,Common Stock,USA,Nevada,"3,548,596",8742 - Management consulting services
-MNMB,MERCHANTS & MARINE BNCORP,OTCQX U.S.,37.25,,0,Common Stock,USA,Mississippi,"49,887,675",.
-HUML,HUMBLE ENERGY INC,Pink Current,0.0071,5.9701,78674,Common Stock,USA,New York,"1,755,863",.
-MMND,MASTERMIND INC,OTCQB,0.2595,-17.619,14705,Common Stock,USA,Georgia,"8,954,182",.
-CBNT,C-BOND SYSTEMS INC,Pink Current,0.0079,-1.25,30001,Common Stock,USA,Texas,"2,520,584",.
-AMLM,AMER LITHIUM MINERALS INC,Pink Current,0.1167,4.1035,17254,Common Stock,USA,Nevada,"8,019,343",.
-VSMR,VERIFY SMART CORP,Pink Current,0.061,,0,Common Stock,USA,New Jersey,"11,496,594",.
+MNMB,MERCHANTS & MARINE BNCORP,OTCQX U.S.,37.25,,0,Common Stock,USA,Mississippi,"49,887,675","6029 - Commercial banks, misc"
+HUML,HUMBLE ENERGY INC,Pink Current,0.0071,5.9701,78674,Common Stock,USA,New York,"1,755,863",1311 - Crude petroleum and natural gas
+MMND,MASTERMIND INC,OTCQB,0.2595,-17.619,14705,Common Stock,USA,Georgia,"8,954,182",7310 - Services-Advertising
+CBNT,C-BOND SYSTEMS INC,Pink Current,0.0079,-1.25,30001,Common Stock,USA,Texas,"2,520,584","6799 - Investors, misc"
+AMLM,AMER LITHIUM MINERALS INC,Pink Current,0.1167,4.1035,17254,Common Stock,USA,Nevada,"8,019,343",1000 - Metal Mining
+VSMR,VERIFY SMART CORP,Pink Current,0.061,,0,Common Stock,USA,New Jersey,"11,496,594","7370 - Services-Computer Programming, Data Processing, Etc."
 TICJ,TRITENT INTL CORP,Pink Current,0.2,,0,Common Stock,Canada,Ontario,"5,277,595","5172 - Petroleum products, misc"
 TREP,TRUCEPT INC,Pink Current,0.0351,-8.8312,44586,Common Stock,USA,California,"1,969,056",7310 - Services-Advertising
 FFPP,FAST FINANCE PAY CORP,Pink Current,0.007,,0,Common Stock,Germany,,"1,492,850","7389 - Business services, misc"
@@ -768,17 +768,17 @@ FFMH,FIRST FMRS & MERCHANTS CO,Pink Current,27.0,,0,Common Stock,USA,Tennessee,"
 GGII,GREEN GLOBE INTL INC NEW,Pink Current,0.0023,-4.1667,11949740,Common Stock,USA,Arizona,"125,029,728","7389 - Business services, misc"
 WARM,COOL TECHNOLOGIES INC,OTCQB,0.011,-5.9829,595041,Common Stock,USA,Florida,"6,916,960",8200 - Services-Educational Services
 GLXZ,GALAXY GAMING INC,OTCQB,2.58,1.9763,8573,Common Stock,USA,Nevada,"62,452,984",7900 - Services-Amusement & Recreation Services
-HALB,HALBERD CORP,Pink Current,0.0101,-1.9417,470465,Common Stock,USA,Pennsylvania,"5,210,336",8071 - Medical laboratories
-SGDH,SGD HOLDINGS LTD NEW,Pink Current,0.00457,-6.7347,319983,Common Stock,USA,Colorado,"648,408",2611 - Pulp mills
-GNRV,GRAND RIVER COMMERCE INC,OTCQX U.S.,5.75,0.0,100,Common Stock,USA,Michigan,"40,401,932",6022 - State commercial banks
-GOGY,GOLDEN GRAIL TECH CORP,Pink Current,0.2276,2.5225,7280,Common Stock,USA,Florida,"13,040,137","6719 - Holding companies, misc"
-CBGH,CHINA YIBAI UNITED G/I HL,Pink Current,0.0151,,0,Common Stock,China,,"5,476,932",6199 - Finance Services
-BBBT,BLACK BIRD BIOTECH INC,Pink Current,0.0043,-6.5217,54402,Common Stock,USA,Texas,"1,078,890",3990 - Miscellaneous Manufacturing Industries
-EVOL,SYMBOLIC LOGIC INC,Pink Current,1.49,0.6757,1729,Common Stock,USA,Colorado,"16,139,668",7371 - Custom computer programming services
-BUDZ,WEED INC,OTCQB,0.1097,4.3768,5056,Common Stock,USA,Arizona,"13,546,051",.
-MAXD,MAX SOUND CORPORATION,Pink Current,0.0004,0.0,2761362,Common Stock,USA,California,"3,131,508",.
-XTRM,EXTREME BIODIESEL INC,Pink Current,0.0007,0.0,564000,Common Stock,USA,Idaho,"1,127,767",.
-TETAA,TETON ADVISORS INC A,Pink Current,15.0,,15,Common Stock,USA,Connecticut,"14,848,905",.
+HALB,HALBERD CORP,Pink Current,0.0101,-1.9417,470465,Common Stock,USA,Pennsylvania,"5,210,336",.
+SGDH,SGD HOLDINGS LTD NEW,Pink Current,0.00457,-6.7347,319983,Common Stock,USA,Colorado,"648,408",.
+GNRV,GRAND RIVER COMMERCE INC,OTCQX U.S.,5.75,0.0,100,Common Stock,USA,Michigan,"40,401,932",.
+GOGY,GOLDEN GRAIL TECH CORP,Pink Current,0.2276,2.5225,7280,Common Stock,USA,Florida,"13,040,137",.
+CBGH,CHINA YIBAI UNITED G/I HL,Pink Current,0.0151,,0,Common Stock,China,,"5,476,932",.
+BBBT,BLACK BIRD BIOTECH INC,Pink Current,0.0043,-6.5217,54402,Common Stock,USA,Texas,"1,078,890",.
+EVOL,SYMBOLIC LOGIC INC,Pink Current,1.49,0.6757,1729,Common Stock,USA,Colorado,"16,139,668",.
+BUDZ,WEED INC,OTCQB,0.1097,4.3768,5056,Common Stock,USA,Arizona,"13,546,051",8731 - Commercial physical research
+MAXD,MAX SOUND CORPORATION,Pink Current,0.0004,0.0,2761362,Common Stock,USA,California,"3,131,508",7374 - Data processing and preparation
+XTRM,EXTREME BIODIESEL INC,Pink Current,0.0007,0.0,564000,Common Stock,USA,Idaho,"1,127,767",1531 - Operative builders
+TETAA,TETON ADVISORS INC A,Pink Current,15.0,,15,Common Stock,USA,Connecticut,"14,848,905",6282 - Investment advice
 BCNN,BALINCAN USA INC,Pink Current,0.61,,0,Common Stock,USA,Colorado,"91,633,066",7372 - Prepackaged software
 TAER,TARSIER LTD,Pink Current,0.0825,-17.5,22324,Common Stock,USA,New York,"9,790,212",3640 - Electric Lighting & Wiring Equipment
 VYST,VYSTAR CORP,Pink Current,0.003,0.0,114053,Common Stock,USA,Massachusetts,"3,882,377","3060 - Fabricated Rubber Products, NEC"
@@ -791,12 +791,12 @@ PBKX,PARTNERS BANK CALIFORNIA,Pink Current,10.66,,0,Common Stock,USA,California,
 NBIO,NASCENT BIOTECH INC,OTCQB,0.3825,-9.1449,389277,Common Stock,USA,Florida,"44,792,041",2834 - Pharmaceutical preparations
 CHNC,CHINA INFRASTRCTR CONS CP,Pink Current,0.0011,-4.3478,9627500,Common Stock,USA,Texas,"9,699,126",8011 - Offices and clinics of medical doctors
 LTUM,LITHIUM CORP,OTCQB,0.1497,2.4991,170628,Common Stock,USA,Nevada,"16,420,958",1000 - Metal Mining
-FMPR,FAME PRODUCTIONS INC,Pink Current,0.37,,0,Common Stock,USA,New York,"47,101,000",.
-LSMG,LODE-STAR MINING INC,OTCQB,0.037,,0,Common Stock,USA,Nevada,"4,474,685",.
-TEGY,TRANSACT ENERGY CORP,Pink Current,0.03,,0,Common Stock,USA,Washington,"1,964,147",.
-MLMN,MILLENNIUM PRIME INC,Pink Current,0.006,,0,Common Stock,USA,Florida,"11,751,540",.
-LRDC,LAREDO OIL INC,Pink Current,0.1483,0.0,5000,Common Stock,USA,Texas,"8,273,262",.
-JKSM,JACKSAM CORPORATION,OTCQB,0.016,-8.5714,114000,Common Stock,USA,California,"1,297,420",.
+FMPR,FAME PRODUCTIONS INC,Pink Current,0.37,,0,Common Stock,USA,New York,"47,101,000",2731 - Book publishing
+LSMG,LODE-STAR MINING INC,OTCQB,0.037,,0,Common Stock,USA,Nevada,"4,474,685",1040 - Gold and Silver Ores
+TEGY,TRANSACT ENERGY CORP,Pink Current,0.03,,0,Common Stock,USA,Washington,"1,964,147","1389 - Oil and gas field services, misc"
+MLMN,MILLENNIUM PRIME INC,Pink Current,0.006,,0,Common Stock,USA,Florida,"11,751,540",5182 - Wine and distilled beverages
+LRDC,LAREDO OIL INC,Pink Current,0.1483,0.0,5000,Common Stock,USA,Texas,"8,273,262",1311 - Crude petroleum and natural gas
+JKSM,JACKSAM CORPORATION,OTCQB,0.016,-8.5714,114000,Common Stock,USA,California,"1,297,420",4833 - Television broadcasting stations
 STEV,STEVIA CORP,Pink Current,0.006,-1.6393,427580,Common Stock,USA,New York,"3,374,535",700 - Agricultural Services
 WDTK,WEDOTALK INC,Pink Current,0.1111,,0,Common Stock,USA,New York,"2,222,000",1040 - Gold and Silver Ores
 TTNN,TITAN NRG,Pink Current,0.156,-15.6757,5150,Common Stock,USA,Arizona,"16,663,664","6719 - Holding companies, misc"
@@ -812,7 +812,7 @@ BMNM,BIMINI CAPITAL MGMT INC A,OTCQB,1.4,,0,Common Stock,USA,Florida,"14,658,689
 EACO,EACO CORP,Pink Current,20.0,,8,Common Stock,USA,California,"97,231,800","5065 - Electronic parts and equipment, misc"
 JTBK,JETBLACK CORP,Pink Current,0.006,-2.439,141101,Common Stock,USA,Nevada,"1,652,532",7371 - Custom computer programming services
 CLEV,CONCRETE LEVELING SYS INC,Pink Current,3.25,-9.7222,125,Common Stock,USA,Ohio,"45,590,461",3590 - Misc Industrial & Commercial Machinery & Equipment
-AJOY,AYUJOY HERBALS LTD,Pink Current,0.021,,0,Common Stock,Germany,,"1,270,500",.
+AJOY,AYUJOY HERBALS LTD,Pink Current,0.021,,0,Common Stock,Germany,,"1,270,500",5912 - Drugstores and Proprietary Stores
 KDCE,KID CASTLE EDUCATNL CORP,Pink Current,0.0429,,0,Common Stock,USA,California,"957,730",5040 - Wholesale-Professional & Commercial Equipment & Supplies
 USAQ,"QHSLAB, INC",OTCQB,0.2,42.0959,300,Common Stock,USA,Florida,"1,813,102",3841 - Surgical and medical instruments
 TSBA,TOUCHSTONE BANKSHARES,Pink Current,9.65,-6.8533,1383,Common Stock,USA,Virginia,"31,332,595",6022 - State commercial banks
@@ -848,11 +848,11 @@ PVRS,PROVIDENCE RESOURCES INC,Pink Current,0.098,,0,Common Stock,China,,"6,746,9
 ICBU,IMD COMPANIES INC,Pink Current,0.00075,7.1429,615720,Common Stock,USA,Nevada,"2,959,553",.
 RAFI,REGENCY AFFILIATES INC,Pink Current,5.75,,1,Common Stock,USA,New York,"27,686,578",.
 AVNI,ARVANA INC,Pink Current,0.255,,0,Common Stock,USA,Utah,"8,707,872",.
-IJJP,IJJ CORP,Pink Current,0.0008,0.0,1841910,Common Stock,USA,Maryland,"1,540,360",.
-AAGC,ALL AMERICAN GOLD CORP,Pink Current,0.0007,0.0,2600100,Common Stock,USA,New York,"1,030,942",.
-IMHC,IMPERALIS HOLDING CORP,Pink Current,0.2,25.0,6625,Common Stock,USA,California,"32,340,939",.
-VYBE,LIMITLESS X HOLDINGS INC,OTCQB,0.36,,0,Common Stock,USA,California,"42,441,646",.
-XTPT,XTRA ENERGY CORP,Pink Current,0.124,3.3764,256339,Common Stock,USA,Texas,"27,447,586",.
+IJJP,IJJ CORP,Pink Current,0.0008,0.0,1841910,Common Stock,USA,Maryland,"1,540,360",8742 - Management consulting services
+AAGC,ALL AMERICAN GOLD CORP,Pink Current,0.0007,0.0,2600100,Common Stock,USA,New York,"1,030,942",1040 - Gold and Silver Ores
+IMHC,IMPERALIS HOLDING CORP,Pink Current,0.2,25.0,6625,Common Stock,USA,California,"32,340,939",3620 - Electrical Industrial Apparatus
+VYBE,LIMITLESS X HOLDINGS INC,OTCQB,0.36,,0,Common Stock,USA,California,"42,441,646",7990 - Services-Miscellaneous Amusement & Recreation
+XTPT,XTRA ENERGY CORP,Pink Current,0.124,3.3764,256339,Common Stock,USA,Texas,"27,447,586",1000 - Metal Mining
 WSHE,GREENLINK INTL INC,Pink Current,0.0205,-1.3237,145000,Common Stock,USA,Washington,"25,568,289",6199 - Finance Services
 NECA,NEW AMERICA ENERGY CORP,Pink Current,0.0002,0.0,18381659,Common Stock,USA,Utah,"2,433,724","2389 - Apparel and accessories, misc"
 WTKN,WELLTEK INC,Pink Current,0.01,,0,Common Stock,USA,Georgia,"5,986,720",4841 - Cable and pay television services
@@ -867,13 +867,13 @@ XSVT,XSOVT BRANDS INC,Pink Current,0.735075,,0,Common Stock,USA,Nevada,"14,450,2
 BORK,BOURQUE INDUSTRIES INC,Pink Current,0.0064,29.2929,511063,Common Stock,USA,Arizona,"6,020,161",1090 - Miscellaneous Metal Ores
 ZICX,ZICIX CORPORATION,Pink Current,0.0017,-5.5556,4978789,Common Stock,USA,Nevada,"1,492,143","8093 - Specialty outpatient clinics, misc"
 TNBI,TANKE BIOSCIENCES CORP,Pink Current,0.2999,-18.924,5250,Common Stock,USA,Nevada,"1,473,293","6719 - Holding companies, misc"
-HIGR,HI-GREAT GROUP HLDG CO,Pink Current,1.0,,0,Common Stock,USA,California,"100,000,000",.
-CSOC,CADUCEUS SOFTWARE SYS CRP,Pink Current,0.03,-2.5974,66336,Common Stock,USA,West Virginia,"17,562,000",.
+HIGR,HI-GREAT GROUP HLDG CO,Pink Current,1.0,,0,Common Stock,USA,California,"100,000,000",7011 - Hotels and motels
+CSOC,CADUCEUS SOFTWARE SYS CRP,Pink Current,0.03,-2.5974,66336,Common Stock,USA,West Virginia,"17,562,000",2047 - Dog and cat food
 ITVI,INTERACT-TV INC,Pink Current,0.0002,0.0,1050000,Common Stock,USA,Delaware,"4,914,500",3652 - Prerecorded records and tapes
 WNDW,SOLARWINDOW TECH INC,Pink Current,2.37,14.4928,21002,Common Stock,USA,Arizona,"126,080,206",2860 - Industrial Organic Chemicals
 FDIT,FINDIT INC,Pink Current,0.01399,-6.7333,2300,Common Stock,USA,Georgia,"3,773,733","7370 - Services-Computer Programming, Data Processing, Etc."
 IWAL,IWALLET CORPORATION,Pink Current,0.0105,,0,Common Stock,USA,Nevada,"554,604","3669 - Communications equipment, misc"
-NWPP,NEW PEOPLES BNKSHS INC,Pink Current,2.29,,0,Common Stock,USA,Virginia,"54,704,241",Not Available
+NWPP,NEW PEOPLES BNKSHS INC,Pink Current,2.29,,0,Common Stock,USA,Virginia,"54,704,241",6022 - State commercial banks
 TJBH,TENGJUN BIOTECHNLOGY CORP,OTCQB,3.0,,0,Common Stock,USA,North Carolina,"270,927,507",2080 - Beverages
 QEDN,QED CONNECT INC,Pink Current,0.0013,-13.3333,52584504,Common Stock,USA,Michigan,"3,185,172",2068 - Salted and roasted nuts and seeds
 SMCE,SMC ENTERTAINMENT INC,Pink Current,0.002772,32.0,281800,Common Stock,USA,Florida,"2,649,924",3652 - Prerecorded records and tapes
@@ -908,9 +908,9 @@ CNCL,CANCER CAPITAL CORP,Pink Current,0.0,,0,Common Stock,USA,Utah,Not Available
 CVSI,CV SCIENCES INC,OTCQB,0.038,-7.3171,776319,Common Stock,USA,California,"5,724,122",.
 CBTC,XTRA BITCOIN INC,Pink Current,0.00235,11.9048,1390453,Common Stock,USA,Idaho,"4,813,916",.
 BTOW,GTFN HLDGS INC,Pink Current,1.99,,0,Common Stock,USA,Colorado,"399,091,097",.
-FDOC,FUEL DOCTOR HLDGS INC,Pink Current,0.37,,1,Common Stock,Israel,,"94,993,564",.
-VAPR,VAPORBRANDS INTL INC,Pink Current,0.0253,-2.6923,262667,Common Stock,USA,Washington,"8,662,440",.
-CRSQ,CORPORATE RESTAURANT CNCP,Pink Current,0.15,,0,Common Stock,USA,Kansas,"6,684,664",.
+FDOC,FUEL DOCTOR HLDGS INC,Pink Current,0.37,,1,Common Stock,Israel,,"94,993,564",5013 - Motor vehicle supplies and new parts
+VAPR,VAPORBRANDS INTL INC,Pink Current,0.0253,-2.6923,262667,Common Stock,USA,Washington,"8,662,440",2100 - Tobacco Products
+CRSQ,CORPORATE RESTAURANT CNCP,Pink Current,0.15,,0,Common Stock,USA,Kansas,"6,684,664",Not Available
 NFEI,NEW FRONTIER ENERGY INC,Pink Current,0.0155,,0,Common Stock,USA,New York,"1,159,191",1311 - Crude petroleum and natural gas
 MEEC,MIDWEST ENERGY EMISSION,OTCQB,0.245,4.4776,5555,Common Stock,USA,Texas,"22,018,427","3829 - Measuring and controlling devices, misc"
 CAMG,CAM GROUP INC,Pink Current,0.6599,,0,Common Stock,USA,Texas,"16,692,171",3812 - Search and navigation equipment
@@ -931,7 +931,7 @@ AGYP,ALLIED ENERGY CORP,Pink Current,0.1185,0.4237,90935,Common Stock,USA,Texas,
 EESE,ENERGY & ENVIRONMENTAL SV,Pink Current,0.3,15.3403,13662,Common Stock,USA,Oklahoma,"16,157,818","2869 - Industrial organic chemicals, misc"
 MJHI,MJ HARVEST INC,OTCQB,0.14,-2.9631,100,Common Stock,USA,Nevada,"6,279,663",3523 - Farm machinery and equipment
 LFEV,LIFE ELECTRIC VEHICLES,Pink Current,0.51,23.4867,4650,Common Stock,USA,Florida,"3,609,447","3751 - Motorcycles, bicycles, and parts"
-SNST,SUNSET CAPITAL ASSETS INC,Pink Current,0.07,1.7442,10000,Common Stock,USA,Florida,"18,614,105",.
+SNST,SUNSET CAPITAL ASSETS INC,Pink Current,0.07,1.7442,10000,Common Stock,USA,Florida,"18,614,105",2834 - Pharmaceutical preparations
 ETEK,ECO-TEK GROUP INC,Pink Current,0.0019,0.0,31547466,Common Stock,USA,Wyoming,"10,459,107",2990 - Miscellaneous Products of Petroleum & Coal
 FRMO,FRMO CORP,Pink Current,8.75,0.0,545,Common Stock,USA,New York,"385,155,584","6719 - Holding companies, misc"
 JFIL,JUBILANT FLAME INTL LTD,OTCQB,0.03,6.7616,13000,Common Stock,China,,"599,571",7371 - Custom computer programming services
@@ -987,8 +987,8 @@ FMNJ,FRANKLIN MINING INC,Pink Current,0.01,23.4568,58530,Common Stock,USA,Nevada
 EZRG,EZRAIDER CO,Pink Current,4.25,,0,Common Stock,USA,Washington,"178,465,303",4953 - Refuse systems
 DRNK,NOHO INC,Pink Current,0.0003,0.0,3733433,Common Stock,USA,Arizona,"3,247,626",2080 - Beverages
 CBDG,THC FARMACEUTICALS INC,Pink Current,0.199,-0.5,100,Common Stock,USA,California,"3,608,188",6199 - Finance Services
-SVLT,SUNVAULT ENERGY INC,Pink Current,0.0274,,0,Common Stock,USA,California,"1,106,426",.
-ETST,EARTH SCIENCE TECH INC,Pink Current,0.018,-12.4088,6000,Common Stock,USA,Florida,"1,068,895",.
+SVLT,SUNVAULT ENERGY INC,Pink Current,0.0274,,0,Common Stock,USA,California,"1,106,426",4931 - Electric and other services combined
+ETST,EARTH SCIENCE TECH INC,Pink Current,0.018,-12.4088,6000,Common Stock,USA,Florida,"1,068,895",2834 - Pharmaceutical preparations
 TLGN,EVER HARVEST INTL GRP,Pink Current,0.0155,,0,Common Stock,Hong Kong,,"7,235,738",.
 TVTV,WHEREVERTV BROADCASTING,Pink Current,0.07,0.0,1071,Common Stock,USA,Florida,"18,080,778",.
 IDEA,INVENT VENTURES INC NEW,Pink Current,0.11,10.0,10000,Common Stock,USA,New Jersey,"5,556,045",.
@@ -1069,8 +1069,8 @@ PSTO,POWERSTORM HOLDINGS INC,Pink Current,0.1151,,0,Common Stock,USA,Delaware,"3
 BWMG,BROWNIE'S MARINE GRP INC,OTCQB,0.0295,0.0,33200,Common Stock,USA,Florida,"12,395,347","3949 - Sporting and athletic goods, misc"
 AYAG,AMAYA GLOBAL HLDGS,Pink Current,11.0,,0,Common Stock,USA,New York,"465,713,556",100 - Agricultural Production-Crops
 WLYW,WALLY WORLD MEDIA INC,Pink Current,0.0261,,0,Common Stock,USA,Nevada,"8,625,607",.
-BERI,BLUE EARTH RES INC,Pink Current,0.244,125.9259,501851,Common Stock,USA,Tennessee,"26,370,520",.
-NAHD,NEW ASIA HOLDINGS INC,OTCQB,0.06,-25.0,600,Common Stock,Singapore,,"4,517,320",.
+BERI,BLUE EARTH RES INC,Pink Current,0.244,125.9259,501851,Common Stock,USA,Tennessee,"26,370,520","5172 - Petroleum products, misc"
+NAHD,NEW ASIA HOLDINGS INC,OTCQB,0.06,-25.0,600,Common Stock,Singapore,,"4,517,320","3949 - Sporting and athletic goods, misc"
 MSBM,MSB GLOBAL CAPITAL CORP,Pink Current,0.15,0.0,5000,Common Stock,USA,Nevada,"14,417,604",1311 - Crude petroleum and natural gas
 ADHC,AMER DIVRSFD HLDGS CORP,Pink Current,0.0021,0.0,1531726,Common Stock,USA,California,"1,987,636","7389 - Business services, misc"
 TDNT,TRIDENT BRANDS INC,Pink Current,0.0415,0.0,175,Common Stock,USA,Florida,"1,382,443",2020 - Dairy Products
@@ -1142,7 +1142,7 @@ EWRC,EWORLD COMPANIES INC,Pink Current,0.0069,15.0,189016,Common Stock,USA,Calif
 MRES,INSTITUTE OF BIOMED RESH,Pink Current,0.0251,-8.7273,185354,Common Stock,Montenegro,,"24,115,805",8071 - Medical laboratories
 TPIA,MYCOTOPIA THERAPIES INC,Pink Current,0.370525,-25.895,1403,Common Stock,USA,Florida,"5,392,729","5141 - Groceries, general line"
 FOMC,FOMO CORP,Pink Current,0.0005,0.0,25828414,Common Stock,USA,Illinois,"4,285,094","6799 - Investors, misc"
-SSET,STARSTREAM ENTMT INC,Pink Current,0.0063,34.0426,21733,Common Stock,USA,Florida,"882,064",.
+SSET,STARSTREAM ENTMT INC,Pink Current,0.0063,34.0426,21733,Common Stock,USA,Florida,"882,064","7389 - Business services, misc"
 ZDPY,ZONED PROPERTIES INC,OTCQB,0.6299,3.4319,300,Common Stock,USA,Arizona,"7,685,755",6512 - Nonresidential building operators
 HVCW,HARRISON VICKERS&WATERMEL,Pink Current,0.0008,0.0,156662999,Common Stock,USA,California,"5,251,871",5810 - Retail-Eating & Drinking Places
 HLOC,HELO CORP,Pink Current,1.5,,0,Common Stock,USA,California,"130,070,433",3571 - Electronic computers
@@ -1181,10 +1181,10 @@ CRWE,CROWN EQUITY HLDGS INC,Pink Current,1.38,,0,Common Stock,USA,Nevada,"18,418
 UMAV,UAV CORP,Pink Current,0.0209,23.6686,2659727,Common Stock,USA,Florida,"1,295,194",3721 - Aircraft
 TNMD,TIANRONG MED GROUP INC,Pink Current,0.0239,,0,Common Stock,China,,"11,950,000","4899 - Communication services, misc"
 RGBP,REGEN BIOPHARMA INC,Pink Current,0.00685,-0.7246,7743568,Common Stock,USA,California,"34,465,894",.
-NUGN,"NUGENE INTERNATIONAL, INC",Pink Current,0.0782,-3.0979,2025939,Common Stock,USA,New York,"17,125,899",.
-DRNG,DRONE GUARDER INC,Pink Current,0.0008,-11.1111,8626866,Common Stock,USA,California,"2,089,404",.
-GFTX,GLOBAL FIBER TECHS INC,Pink Current,0.0024,-4.0,1814603,Common Stock,USA,New Jersey,"3,682,370",.
-HITC,HEALTHCARE INTEGRTED TECH,Pink Current,0.1225,90.1583,167350,Common Stock,USA,Tennessee,"5,182,322",.
+NUGN,"NUGENE INTERNATIONAL, INC",Pink Current,0.0782,-3.0979,2025939,Common Stock,USA,New York,"17,125,899",8741 - Management services
+DRNG,DRONE GUARDER INC,Pink Current,0.0008,-11.1111,8626866,Common Stock,USA,California,"2,089,404",7363 - Help supply services
+GFTX,GLOBAL FIBER TECHS INC,Pink Current,0.0024,-4.0,1814603,Common Stock,USA,New Jersey,"3,682,370","5130 - Wholesale-Apparel, Piece Goods & Notions"
+HITC,HEALTHCARE INTEGRTED TECH,Pink Current,0.1225,90.1583,167350,Common Stock,USA,Tennessee,"5,182,322",7900 - Services-Amusement & Recreation Services
 LRDR,LAREDO RES CORP,Pink Current,0.0027,-30.7692,50000,Common Stock,USA,Nevada,"21,600,000","6719 - Holding companies, misc"
 RGST,ROGUE STATION CO INC,Pink Current,0.102,-20.9302,3250,Common Stock,USA,Wyoming,"15,686,589",5050 - Wholesale-Metals & Minerals (No Petroleum)
 HMLA,HOMELAND RES LTD NEW,Pink Current,0.0031,0.0,172419,Common Stock,USA,Illinois,"456,326",1311 - Crude petroleum and natural gas
@@ -1195,9 +1195,9 @@ SHMP,NATURALSHRIMP INC,OTCQB,0.0825,3.2541,1081308,Common Stock,USA,Texas,"61,98
 FTXP,FOOTHILLS EXPLORATION INC,Pink Current,0.0004,0.0,52268051,Common Stock,USA,California,"4,935,031",1311 - Crude petroleum and natural gas
 GYST,GRAYSTONE CO INC A,Pink Current,0.006,-3.2258,10490,Common Stock,USA,Florida,"1,053,249",Not Available
 PRTT,PROTECT PHARMS CORP,Pink Current,0.1401,,0,Common Stock,USA,Utah,"8,048,938",7371 - Custom computer programming services
-LBRDB,LIBERTY BROADBAND CP B,OTCQB,94.0,,37,Common Stock,USA,Colorado,"198,469,344",.
-SPRN,SUPERNOVA ENERGY INC,Pink Current,0.011025,0.2273,17584,Common Stock,USA,New York,"3,659,740",.
-GLUC,GLUCOSE HEALTH INC,Pink Current,0.5185,1.6667,23087,Common Stock,USA,Arkansas,"7,180,515",.
+LBRDB,LIBERTY BROADBAND CP B,OTCQB,94.0,,37,Common Stock,USA,Colorado,"198,469,344","4813 - Telephone communication, except radio"
+SPRN,SUPERNOVA ENERGY INC,Pink Current,0.011025,0.2273,17584,Common Stock,USA,New York,"3,659,740",1311 - Crude petroleum and natural gas
+GLUC,GLUCOSE HEALTH INC,Pink Current,0.5185,1.6667,23087,Common Stock,USA,Arkansas,"7,180,515",2833 - Medicinal and botanicals
 QBIO,Q BIOMED INC.,OTCQB,0.02055,2.75,1349084,Common Stock,USA,New York,"1,318,751",2834 - Pharmaceutical preparations
 BLYQ,BALLY CORP,Pink Current,2.25,,0,Common Stock,China,,"22,162,500","5200 - Retail-Building Materials, Hardware, Garden Supply"
 TPTW,TPT GLOBAL TECH INC,OTCQB,0.002,66.6667,88343005,Common Stock,USA,California,"2,022,357","4899 - Communication services, misc"
@@ -1208,8 +1208,8 @@ SPRJ,SPRINGS REJUVENATION INC,Pink Current,0.0081,-10.0,169515,Common Stock,USA,
 MPIR,EMPIRE DIVERSIFIED ENGY,Pink Current,0.4,0.0,6088,Common Stock,USA,Florida,"106,641,760",4731 - Freight transportation arranging
 MCEM,MONARCH CEMENT CO,Pink Current,104.5,,0,Common Stock,USA,Kansas,"274,329,220","3270 - Concrete, Gypsum & Plaster Products"
 RCIT,REELCAUSE INC,Pink Current,0.025,0.0,69230,Common Stock,USA,Nevada,"1,555,691",3569 - General industrial machinery
-AHFD,ACTIVE HEALTH FOODS INC,Pink Current,0.0002,0.0,1228000,Common Stock,USA,Georgia,"1,594,525",.
-WPFH,WORLD POKER FD HLDGS,Pink Current,0.047,0.0,10000,Common Stock,USA,California,"3,243,091",.
+AHFD,ACTIVE HEALTH FOODS INC,Pink Current,0.0002,0.0,1228000,Common Stock,USA,Georgia,"1,594,525",2060 - Sugar & Confectionery Products
+WPFH,WORLD POKER FD HLDGS,Pink Current,0.047,0.0,10000,Common Stock,USA,California,"3,243,091",Not Available
 TLIF,TOCCA LIFE HOLDINGS INC,Pink Current,0.022975,0.0,29100,Common Stock,USA,Utah,"2,899,111",7372 - Prepackaged software
 INQD,INDOOR HARVEST CORP,Pink Current,0.0101,3.0612,5776707,Common Stock,USA,Texas,"27,160,820",3590 - Misc Industrial & Commercial Machinery & Equipment
 CAVG,ACC AVIATION HOLDINGS LTD,Pink Current,1.0,,0,Common Stock,China,,"250,944,052",2834 - Pharmaceutical preparations
@@ -1233,11 +1233,11 @@ NXGM,NEXGEN MINING INC,Pink Current,0.04,0.0,500,Common Stock,USA,Nevada,"1,310,
 LOGQ,LOGICQUEST TECHNOLOGY INC,Pink Current,0.121,,0,Common Stock,USA,New Jersey,"278,538","7389 - Business services, misc"
 PIAC,PRINCETON CAPITAL CORP,Pink Current,0.27,,0,Common Stock,USA,Massachusetts,"32,531,236",3564 - Blowers and fans
 SDCH,SIDECHANNEL INC,OTCQB,0.1043,0.0,4236,Common Stock,USA,Texas,"16,882,065",7374 - Data processing and preparation
-IFHI,INTEGRATED FINL HLDGS INC,OTCQX U.S. Premier,34.22,-1.3264,200,Common Stock,USA,North Carolina,"76,283,532",.
-LCLP,LIFE CLIPS INC,Pink Current,0.0015,0.0,23678710,Common Stock,USA,Florida,"4,071,547",.
-CFCX,CENTRIC FINANCIAL CORP,Pink Current,13.67,,11,Common Stock,USA,Pennsylvania,"118,554,524",.
-KOSK,ONE STEP VENDING CORP,Pink Current,0.0057,54.0541,6600,Common Stock,USA,New York,"2,081,177",.
-POSC,POSITRON CORP,Pink Current,0.74,-1.307,320,Common Stock,USA,New York,"17,338,206",.
+IFHI,INTEGRATED FINL HLDGS INC,OTCQX U.S. Premier,34.22,-1.3264,200,Common Stock,USA,North Carolina,"76,283,532",6022 - State commercial banks
+LCLP,LIFE CLIPS INC,Pink Current,0.0015,0.0,23678710,Common Stock,USA,Florida,"4,071,547",3861 - Photographic equipment and supplies
+CFCX,CENTRIC FINANCIAL CORP,Pink Current,13.67,,11,Common Stock,USA,Pennsylvania,"118,554,524",Not Available
+KOSK,ONE STEP VENDING CORP,Pink Current,0.0057,54.0541,6600,Common Stock,USA,New York,"2,081,177","7389 - Business services, misc"
+POSC,POSITRON CORP,Pink Current,0.74,-1.307,320,Common Stock,USA,New York,"17,338,206",3845 - Electromedical equipment
 KYNC,KYN CAPITAL GROUP INC,Pink Current,0.0009,0.0,25861074,Common Stock,USA,Nevada,"5,330,557",6172 - Finance Lessors
 JANL,JANEL CORP,Pink Current,53.06,,0,Common Stock,USA,New York,"62,931,707","7389 - Business services, misc"
 STHI,SPROUT TINY HOMES,OTCQB,0.0964,,0,Common Stock,USA,Colorado,"9,632,743","1522 - Residential construction, misc"
@@ -1252,9 +1252,9 @@ NGTF,NIGHTFOOD HLDGS INC,OTCQB,0.13,3.9169,39841,Common Stock,USA,New York,"12,4
 FSEN,FS ENERGY & POWER FUND,Pink Current,2.71,,0,Common Stock,USA,Pennsylvania,"1,219,849,194",Not Available
 NPHC,NUTRA PHARMA CORP,Pink Current,0.0008,0.0,1000000,Common Stock,USA,Florida,"5,623,792",2833 - Medicinal and botanicals
 DIGP,DIGIPATH INC,OTCQB,0.007,-6.6667,200230,Common Stock,USA,Nevada,"526,028",8742 - Management consulting services
-NAFS,NORTH AMERICA FRAC SAND,Pink Current,0.00315,-8.6957,1146200,Common Stock,USA,New York,"1,561,586",.
-PSWW,PRINCIPAL SOLAR INC,Pink Current,0.0081,-18.1818,813092,Common Stock,USA,Texas,"2,915,329",.
-CLTS,EARTH LIFE SCIENCES,Pink Current,0.0072,,0,Common Stock,USA,Nevada,"7,199,220",.
+NAFS,NORTH AMERICA FRAC SAND,Pink Current,0.00315,-8.6957,1146200,Common Stock,USA,New York,"1,561,586","6722 - Management investment, open-ended"
+PSWW,PRINCIPAL SOLAR INC,Pink Current,0.0081,-18.1818,813092,Common Stock,USA,Texas,"2,915,329",4911 - Electric services
+CLTS,EARTH LIFE SCIENCES,Pink Current,0.0072,,0,Common Stock,USA,Nevada,"7,199,220",7381 - Detective and armored car service
 IDFB,PEAK BANCORP INC,Pink Current,11.0,-0.9009,599,Common Stock,USA,Idaho,"58,857,161",.
 ONFA,ONE 4 ART LIMITED NEW,Pink Current,0.0,,0,Common Stock,USA,New York,Not Available,.
 PUBC,PUREBASE CORPORATION,Pink Current,0.21,5.0,7570,Common Stock,USA,California,"48,510,631",.
@@ -1281,7 +1281,7 @@ XALL,XALLES HOLDINGS INC,Pink Current,0.0024,4.3478,358950,Common Stock,USA,Wash
 UGHB,UNIVERSAL GLOBAL HUB INC,Pink Current,0.55,,0,Common Stock,USA,New York,"27,231,476",6770 - Blank Checks
 RMRI,RMR INDUSTRIALS CL B,Pink Current,1.0,,0,Common Stock,USA,Colorado,"4,448,920",7380 - Services-Miscellaneous Business Services
 MEDH,MEDX HOLDINGS INC,Pink Current,0.0016,-13.9785,220000,Common Stock,USA,Wyoming,"1,104,798",2833 - Medicinal and botanicals
-ONEI,ONEMETA AI,Pink Current,0.8,-20.0,24755,Common Stock,USA,Nevada,"17,975,104",.
+ONEI,ONEMETA AI,Pink Current,0.8,-20.0,24755,Common Stock,USA,Nevada,"17,975,104",7374 - Data processing and preparation
 BHLD,BLOCKHOLD CAPITAL CORP,Pink Current,0.0,,0,Common Stock,USA,Nevada,Not Available,7374 - Data processing and preparation
 MSPC,METROSPACES INC,Pink Current,0.0001,0.0,166860036,Common Stock,USA,New York,"2,861,251",6500 - Real Estate
 TRRI,TRINITY RESOURCES INC,Pink Current,0.597368,,0,Common Stock,USA,Nevada,"899,202",Not Available
@@ -1292,10 +1292,10 @@ RRRT,R-THREE TECHNOLOGIES INC,Pink Current,0.1494,0.2685,6333,Common Stock,USA,W
 NTRR,NEUTRA CORPORATION,Pink Current,0.0007,0.0,6630320,Common Stock,USA,Texas,"1,610,503",2833 - Medicinal and botanicals
 OPXS,OPTEX SYSTEMS HLDGS INC,OTCQB,2.4,,0,Common Stock,USA,Texas,"19,975,082",3827 - Optical instruments and lenses
 INKW,GREENE CONCEPTS INC NEW,Pink Current,0.0094,2.1739,10313749,Common Stock,USA,North Carolina,"19,877,875",2086 - Bottled and canned soft drinks
-ABML,AMERICAN BATTERY TECH CO,OTCQB,0.5674,-1.7489,1274955,Common Stock,USA,Nevada,"365,484,259",.
-FNAM,EVOLUTIONARY GENOMICS INC,OTCQB,0.7,,0,Common Stock,USA,Colorado,"4,603,711",.
-BLNC,BALANCE LABS INC,Pink Current,0.47,,0,Common Stock,USA,Florida,"10,161,400",.
-JRSS,JRSIS HEALTH CARE CORP,Pink Current,0.068,,0,Common Stock,China,,"3,968,927",.
+ABML,AMERICAN BATTERY TECH CO,OTCQB,0.5674,-1.7489,1274955,Common Stock,USA,Nevada,"365,484,259",1000 - Metal Mining
+FNAM,EVOLUTIONARY GENOMICS INC,OTCQB,0.7,,0,Common Stock,USA,Colorado,"4,603,711",8731 - Commercial physical research
+BLNC,BALANCE LABS INC,Pink Current,0.47,,0,Common Stock,USA,Florida,"10,161,400",8742 - Management consulting services
+JRSS,JRSIS HEALTH CARE CORP,Pink Current,0.068,,0,Common Stock,China,,"3,968,927",8060 - Services-Hospitals
 WINSF,WINS FINANCE HOLDINGS INC,Pink Current,0.027,,0,Common Stock,USA,New York,"535,616",.
 USRM,U S STEM CELL INC,Pink Current,0.0069,-1.4286,12722,Common Stock,USA,Florida,"4,126,906",.
 VNJA,VANJIA CORP,Pink Current,5.18,,0,Common Stock,USA,Texas,"155,400,000",.
@@ -1352,11 +1352,11 @@ EPAZ,EPAZZ INC,Pink Current,0.00515,3.0,229596,Common Stock,USA,Illinois,"2,760,
 INRE,INLAND REAL EST INC TR,Pink Current,17.51,,0,Common Stock,USA,Illinois,"632,972,877",6798 - Real estate investment trusts
 TMIN,TRENDMAKER INC LTD,Pink Current,1.3,,0,Common Stock,Malaysia,,"17,598,100",2731 - Book publishing
 NMXS,NET MEDICAL XPS SLTNS INC,Pink Current,0.4103,-3.4361,2917,Common Stock,USA,New Mexico,"15,455,008","8099 - Health and allied services, misc"
-FUST,FUSE GROUP HOLDING INC,OTCQB,0.301,,0,Common Stock,USA,California,"19,498,193",.
-ACBM,ARCO BIOMEDICAL CO LTD,OTCQB,3.99,52.8736,100,Common Stock,USA,Indiana,"239,567,580",.
-APHE,ALPHA ENERGY INC,Pink Current,7.04,0.0,425,Common Stock,USA,Colorado,"132,521,706",.
-FLLZ,FELLAZO CORP,Pink Current,14.0,,0,Common Stock,Malaysia,,"1,207,696,000",.
-CGLD,BUSCAR COMPANY,Pink Current,0.036,0.0,2500,Common Stock,USA,California,"7,616,804",.
+FUST,FUSE GROUP HOLDING INC,OTCQB,0.301,,0,Common Stock,USA,California,"19,498,193",1000 - Metal Mining
+ACBM,ARCO BIOMEDICAL CO LTD,OTCQB,3.99,52.8736,100,Common Stock,USA,Indiana,"239,567,580",7900 - Services-Amusement & Recreation Services
+APHE,ALPHA ENERGY INC,Pink Current,7.04,0.0,425,Common Stock,USA,Colorado,"132,521,706",1311 - Crude petroleum and natural gas
+FLLZ,FELLAZO CORP,Pink Current,14.0,,0,Common Stock,Malaysia,,"1,207,696,000",2750 - Commercial Printing
+CGLD,BUSCAR COMPANY,Pink Current,0.036,0.0,2500,Common Stock,USA,California,"7,616,804",1000 - Metal Mining
 CHMX,NEXT-CHEMX CORP,Pink Current,12.5,,0,Common Stock,USA,Texas,"350,281,213",8742 - Management consulting services
 WCFB,WCF BANCORP INC,Pink Current,8.3,,0,Common Stock,USA,Iowa,"17,143,766",6035 - Federal savings institutions
 PPJE,PPJ HEALTHCARE ENTERPRISE,Pink Current,0.0008,0.0,4850543,Common Stock,USA,Florida,"4,243,869","7389 - Business services, misc"
@@ -1403,12 +1403,12 @@ SNTX,SUNTEX ENTERPRISES INC,Pink Current,0.0078,,0,Common Stock,USA,Nevada,"1,28
 PAYD,PAID INC,Pink Current,2.2,,100,Common Stock,USA,Massachusetts,"12,267,785","7389 - Business services, misc"
 INND,INNERSCOPE HEARING TECH,Pink Current,0.0167,33.6,74013899,Common Stock,USA,California,"124,598,721",7311 - Advertising agencies
 BMIX,BRAZIL MINERALS INC,OTCQB,0.0095,-7.767,6986290,Common Stock,USA,California,"34,656,229",.
-MRNJ,METATRON INC,Pink Current,0.0005,25.0,42561066,Common Stock,USA,Delaware,"4,861,282",.
-RLTR,REELTIME RENTALS INC,Pink Current,0.007,-12.5,117005,Common Stock,USA,Washington,"641,088",.
-DUUO,DUO WORLD INC,Pink Current,0.02,25.0,1320853,Common Stock,Sri Lanka,,"1,502,606",.
-DQWS,DSWISS INC,Pink Current,0.2929,,0,Common Stock,Malaysia,,"60,602,353",.
-MCBI,MOUNTAIN COMM BANCORP INC,OTCQX U.S. Premier,28.12,,0,Common Stock,USA,Tennessee,"177,294,941",.
-ARRT,ARTISAN CONSUMER GOODS,Pink Current,0.121,,0,Common Stock,USA,Washington,"532,406",.
+MRNJ,METATRON INC,Pink Current,0.0005,25.0,42561066,Common Stock,USA,Delaware,"4,861,282","5990 - Retail-Retail Stores, NEC"
+RLTR,REELTIME RENTALS INC,Pink Current,0.007,-12.5,117005,Common Stock,USA,Washington,"641,088",4841 - Cable and pay television services
+DUUO,DUO WORLD INC,Pink Current,0.02,25.0,1320853,Common Stock,Sri Lanka,,"1,502,606",7372 - Prepackaged software
+DQWS,DSWISS INC,Pink Current,0.2929,,0,Common Stock,Malaysia,,"60,602,353",2844 - Toilet preparations
+MCBI,MOUNTAIN COMM BANCORP INC,OTCQX U.S. Premier,28.12,,0,Common Stock,USA,Tennessee,"177,294,941",6022 - State commercial banks
+ARRT,ARTISAN CONSUMER GOODS,Pink Current,0.121,,0,Common Stock,USA,Washington,"532,406",1000 - Metal Mining
 WCIG,WEE-CIG INTL CORP,Pink Current,0.032,,0,Common Stock,USA,Nevada,"1,487,349",6231 - Security & commodity brokers & dealers
 PRTM,PRIME TIME HOLDINGS INC,Pink Current,0.089,,0,Common Stock,USA,Rhode Island,"15,908,753",6770 - Blank Checks
 STAL,STAR ALLIANCE INTL CORP,Pink Current,0.07,0.0,52000,Common Stock,USA,California,"12,798,662",1040 - Gold and Silver Ores
@@ -1423,7 +1423,7 @@ ASFT,APPSOFT TECHNOLOGIES INC,Pink Current,0.6,,0,Common Stock,USA,New York,"2,6
 XCPL,XCPCNL BUSINESS SERVICES,Pink Current,0.0021,5.0,6920370,Common Stock,USA,North Carolina,"517,045",7372 - Prepackaged software
 HLYK,HEALTHLYNKED CORP,OTCQB,0.085,-5.5556,185374,Common Stock,USA,Florida,"20,883,236",8011 - Offices and clinics of medical doctors
 CRCW,THE CRYPTO COMPANY,OTCQB,0.36,5.8824,1853,Common Stock,USA,California,"8,430,511",7374 - Data processing and preparation
-TETAB,TETON ADVISORS INC B,Pink Current,13.0,,0,Common Stock,USA,Connecticut,"4,277,832",.
+TETAB,TETON ADVISORS INC B,Pink Current,13.0,,0,Common Stock,USA,Connecticut,"4,277,832",6282 - Investment advice
 TFGL,TRACKER FINANCIAL GROUP,Pink Current,0.292,,0,Common Stock,China,Hong Kong,"517,411",.
 HRRB,HORIZON BANCORP INC AZ,Pink Current,18.45,0.4902,12178,Common Stock,USA,Arizona,"79,486,844",.
 CPWR,OCEAN THERMAL ENERGY CORP,Pink Current,0.01445,-21.8919,6300,Common Stock,USA,Pennsylvania,"2,664,153",.
@@ -1464,7 +1464,7 @@ SNPW,SUN PACIFIC HOLDING CORP,Pink Current,0.0155,5.4422,1461328,Common Stock,US
 CRSS,CROSSROADS IMPACT CORP,OTCQX U.S.,10.75,0.0,300,Common Stock,USA,Texas,"175,095,764","6719 - Holding companies, misc"
 ECDD,ECRID INC,Pink Current,0.229,,0,Common Stock,USA,Florida,"66,796,898",2090 - Miscellaneous Food Preparations & Kindred Products
 BELR,BELL ROSE CAPITAL INC,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,3578 - Calculating and accounting equipment
-COSO,COASTALSOUTH BANCSHARES,OTCQX U.S.,16.57,-5.3143,450,Common Stock,USA,South Carolina,"110,723,358",.
+COSO,COASTALSOUTH BANCSHARES,OTCQX U.S.,16.57,-5.3143,450,Common Stock,USA,South Carolina,"110,723,358",6022 - State commercial banks
 VTYB,VICTORY BANCORP INC,OTCQX U.S. Premier,14.3,,0,Common Stock,USA,Pennsylvania,"28,190,477",6712 - Bank holding companies
 ANVI,ANVI GLOBAL HOLDINGS,OTCQB,0.0,,0,Common Stock,USA,North Carolina,Not Available,5400 - Retail-Food Stores
 AFFG,AFF HOLDING GROUP INC,Pink Current,0.0,,0,Common Stock,Hong Kong,,Not Available,"4813 - Telephone communication, except radio"
@@ -1616,10 +1616,10 @@ SLDX,STELLA DIAGNOSTICS INC,Pink Current,0.13,,0,Common Stock,USA,Utah,"12,743,8
 WBZB,WASHINGTON BUSINESS BK,Pink Current,25.25,,0,Common Stock,USA,Washington,"17,442,145",6022 - State commercial banks
 RGMP,REGNUM CORP,Pink Current,0.165,,0,Common Stock,USA,New York,"3,786,750",7819 - Services allied to motion pictures
 ALPIB,ALPINE BKS COLO CL B,OTCQX U.S.,30.1,0.3333,2400,Common Stock,USA,Colorado,"256,133,903",6712 - Bank holding companies
-ADOB,ADORBS INC,Pink Current,0.0,,0,Common Stock,Canada,Saskatchewan,Not Available,.
-DSGT,DSG GLOBAL INC,OTCQB,0.0575,-4.0067,296963,Common Stock,Canada,British Columbia,"8,157,274",.
-GTHP,GUIDED THERAPEUTCS INC,OTCQB,0.55,17.6471,110,Common Stock,USA,Georgia,"26,245,144",.
-HOVVB,HOVNANIAN ENTRPRS B NEW,Pink Current,65.0,,0,Common Stock,USA,New Jersey,"42,848,455",.
+ADOB,ADORBS INC,Pink Current,0.0,,0,Common Stock,Canada,Saskatchewan,Not Available,2300 - Apparel & Other Finishd Prods of Fabrics & Similar Matl
+DSGT,DSG GLOBAL INC,OTCQB,0.0575,-4.0067,296963,Common Stock,Canada,British Columbia,"8,157,274",7373 - Computer integrated systems design
+GTHP,GUIDED THERAPEUTCS INC,OTCQB,0.55,17.6471,110,Common Stock,USA,Georgia,"26,245,144",3845 - Electromedical equipment
+HOVVB,HOVNANIAN ENTRPRS B NEW,Pink Current,65.0,,0,Common Stock,USA,New Jersey,"42,848,455",1531 - Operative builders
 PPHI,POSITIVE PHYSICIANS HLDGS,OTCQX U.S.,6.4,,0,Common Stock,USA,Pennsylvania,"23,139,200","6331 - Fire, marine, and casualty insurance"
 RELT,RELIANT HOLDINGS INC,OTCQB,0.0721,,0,Common Stock,USA,Texas,"1,181,359",1700 - Construction - Special Trade Contractors
 GUYGF,G2 GOLDFIELDS INC,OTCQX International,0.4746,,10,Common Stock,Canada,Ontario,"77,827,338",Not Available
@@ -1630,9 +1630,9 @@ CECL,CECIL BANCORP INC,Pink Current,0.0,,0,Common Stock,USA,Maryland,Not Availab
 TBBA,TEB BANCORP INC,Pink Current,7.6,-1.9355,400,Common Stock,USA,Wisconsin,"19,945,007","6036 - Savings institutions, except federal"
 MULG,MULIANG VIAGOO TECHNOLGY,Pink Current,7.0,,0,Common Stock,China,,"269,520,678",2870 - Agricultural Chemicals
 HSTA,HESTIA INSIGHT INC,OTCQB,1.0,,0,Common Stock,USA,Nevada,"27,939,260",8742 - Management consulting services
-QMEI,QUANTUM METAL EXCHNGE INC,Pink Current,0.7901,,0,Common Stock,USA,New York,"28,363,030",.
-HWIN,HOMETOWN INTL INC,Pink Current,5.95,-15.0,609,Common Stock,USA,California,"224,892,174",.
-TCRI,TECHCOM INC,Pink Current,0.0565,-21.5278,1050,Common Stock,USA,Delaware,"3,671,949",.
+QMEI,QUANTUM METAL EXCHNGE INC,Pink Current,0.7901,,0,Common Stock,USA,New York,"28,363,030","6719 - Holding companies, misc"
+HWIN,HOMETOWN INTL INC,Pink Current,5.95,-15.0,609,Common Stock,USA,California,"224,892,174",5412 - Retail-Convenience Stores
+TCRI,TECHCOM INC,Pink Current,0.0565,-21.5278,1050,Common Stock,USA,Delaware,"3,671,949",6770 - Blank Checks
 FSWA,FIRST SOUND BANK (WA),Pink Current,6.94,,0,Common Stock,USA,Washington,"21,892,827",.
 ETHE,GRAYSCALE ETHRM TR ETH,OTCQX U.S.,9.26,-1.2783,3241493,Common Stock,USA,Connecticut,"2,872,067,710",.
 GWHP,GLOBAL WHOLEHEALTH PTNRS,Pink Current,0.004225,-3.9773,153308,Common Stock,USA,California,"534,194",.
@@ -1659,8 +1659,8 @@ AGTX,AGENTIX CORP,Pink Current,0.1031,,0,Common Stock,USA,California,"4,032,956"
 ZAAG,ZA GROUP INC.,Pink Current,0.0002,0.0,14008052,Common Stock,Canada,Alberta,"1,415,476",8742 - Management consulting services
 FGFI,FIRST GREENWICH FCL INC,Pink Current,16.25,,0,Common Stock,USA,Connecticut,"41,306,135",6011 - Federal reserve banks
 LAAB,STARTECH LABS INC,Pink Current,0.03,0.0,190,Common Stock,USA,New York,"1,819,453",7372 - Prepackaged software
-ZUUS,ZEUUS INC,Pink Current,13.5,,0,Common Stock,USA,New York,"1,424,458,710",.
-EMMA,EMMAUS LIFE SCIENCES INC,OTCQX U.S.,0.15,-16.6667,16645,Common Stock,USA,California,"7,433,775",.
+ZUUS,ZEUUS INC,Pink Current,13.5,,0,Common Stock,USA,New York,"1,424,458,710",7380 - Services-Miscellaneous Business Services
+EMMA,EMMAUS LIFE SCIENCES INC,OTCQX U.S.,0.15,-16.6667,16645,Common Stock,USA,California,"7,433,775",2834 - Pharmaceutical preparations
 PSYC,PSYC CORPORATION,Pink Current,0.00395,1.2821,365179,Common Stock,USA,Nevada,"2,070,291","7389 - Business services, misc"
 BCDS,BLAQCLOUDS INC,Pink Current,0.15,-70.5882,509,Common Stock,USA,California,"1,541,741",7372 - Prepackaged software
 UNXP,UNITED EXPRESS INC,OTCQB,1.0,,0,Common Stock,USA,Nevada,"15,592,000",4700 - Transportation Services
@@ -1671,8 +1671,8 @@ SDWL,SHENGDA NETWORK TECH,Pink Current,7.7,,0,Common Stock,China,,"107,876,577",
 BFGX,BANGFU TECH GRP LTD,Pink Current,12.0,,0,Common Stock,China,,"95,406,000",7372 - Prepackaged software
 GLAE,GLASSBRIDGE ENTRPRS,Pink Current,35.0,-0.0003,1,Common Stock,USA,New York,"983,395",6282 - Investment advice
 SGTM,SUSTAINABLE GREEN TEAM,Pink Current,2.07,-1.4286,20900,Common Stock,USA,Florida,"178,420,129",783 - Ornamental shrub and tree services
-KLTHF,KOOLEARN TECH HLDG LTD,Pink Current,0.47,,0,Common Stock,,,Not Available,.
-BXPHF,BOTANIX PHARMACEUTICALS,Pink Current,0.0363,,0,Common Stock,Australia,Western Australia,Not Available,.
+KLTHF,KOOLEARN TECH HLDG LTD,Pink Current,0.47,,0,Common Stock,,,Not Available,Not Available
+BXPHF,BOTANIX PHARMACEUTICALS,Pink Current,0.0363,,0,Common Stock,Australia,Western Australia,Not Available,Not Available
 RMIHF,REGINA MIRACLE INTL HLDS,Pink Current,0.0,,0,Common Stock,,,Not Available,Not Available
 ACGX,ALLIANCE CREATIVE GRP,Pink Current,0.15,10.9467,15000,Common Stock,USA,Illinois,"390,632",8741 - Management services
 FDBL,FRIENDABLE INC,Pink Current,0.0001,0.0,1500001,Common Stock,USA,California,"537,540",7372 - Prepackaged software
@@ -1710,8 +1710,8 @@ NLSC,NAMLIONG SKYCOSMOS,Pink Current,1.99,,0,Common Stock,Taiwan,,"29,265,961",2
 VRVR,VIRTUAL INTERACTIVE TECH,Pink Current,2.22,18.7166,5017,Common Stock,USA,Colorado,"16,802,683",1000 - Metal Mining
 HSTC,HST GLOBAL INC,Pink Current,0.1301,,0,Common Stock,USA,Virginia,"682,841",2834 - Pharmaceutical preparations
 PHOT,GROWLIFE INC,OTCQB,0.001,0.0,9401686,Common Stock,USA,Washington,"420,003",.
-DSWR,DESEO SWIMWEAR INC,Pink Current,0.0,,0,Common Stock,USA,Florida,Not Available,.
-DLYT,DAIS CORPORATION,Pink Current,0.1,-33.3333,10000,Common Stock,USA,Florida,"1,072,623",.
+DSWR,DESEO SWIMWEAR INC,Pink Current,0.0,,0,Common Stock,USA,Florida,Not Available,2300 - Apparel & Other Finishd Prods of Fabrics & Similar Matl
+DLYT,DAIS CORPORATION,Pink Current,0.1,-33.3333,10000,Common Stock,USA,Florida,"1,072,623",3990 - Miscellaneous Manufacturing Industries
 HAFG,HOLISTIC ASSET FINANCE GR,Pink Current,1.39,,0,Common Stock,USA,New York,"49,940,177","6719 - Holding companies, misc"
 GIGA,GIGA-TRONICS INC,OTCQB,1.02,-24.4444,100,Common Stock,USA,California,"2,837,874",3825 - Instruments to measure electricity
 BWNGF,BAWANG INTL GRP HLDG LTD,Pink Current,0.0,,0,Common Stock,,,Not Available,Not Available
@@ -1784,9 +1784,9 @@ MGHL,MORGAN GROUP HOLDING CO,Pink Current,1.6,,50,Common Stock,USA,New York,"960
 HOJI,HOUSE OF JANE INC,Pink Current,2.0,,0,Common Stock,USA,Arizona,"22,063,790","5149 - Groceries and related products, misc"
 CTLGF,CHINA TIAN LUN GAS HLDGS,Pink Current,0.0,,0,Common Stock,,,Not Available,Not Available
 ZRFY,ZERIFY INC,OTCQB,0.0092,5.1429,1564776,Common Stock,USA,New Jersey,"9,723,872",7372 - Prepackaged software
-HNOI,HNO INTERNATIONAL INC,Pink Current,2.29,,0,Common Stock,USA,California,"241,103,335",.
-CCYC,CLANCY CORP,Pink Current,11.55,,0,Common Stock,China,,"1,768,368,109",.
-EAXR,EALIXIR INC,Pink Current,10.7,-1.6544,3900,Common Stock,USA,Florida,"499,954,857",.
+HNOI,HNO INTERNATIONAL INC,Pink Current,2.29,,0,Common Stock,USA,California,"241,103,335",8711 - Engineering services
+CCYC,CLANCY CORP,Pink Current,11.55,,0,Common Stock,China,,"1,768,368,109","2840 - Soap, Detergents, Cleaning Preparations, Perfumes, Cosmetics"
+EAXR,EALIXIR INC,Pink Current,10.7,-1.6544,3900,Common Stock,USA,Florida,"499,954,857","3669 - Communications equipment, misc"
 LVGI,LIMITLESS VENTURE GRP INC,Pink Current,0.0032,6.6667,43845,Common Stock,USA,Oklahoma,"275,336",.
 PWLNF,POWERLONG REAL ESTATE HLD,Pink Current,0.0,,0,Common Stock,,,Not Available,.
 JDCMF,JD.COM INC,Pink Current,26.36,0.6107,39384,Common Stock,China,,"70,317,679,464",.
@@ -1808,7 +1808,7 @@ OATN,O A T INC,Pink Current,0.019,11.7647,10000,Common Stock,USA,California,"18,
 BBLR,BUBBLR INC,Pink Current,0.186,-6.7669,15089,Common Stock,USA,New York,"27,757,368",.
 AMHG,AMERGENT HOSPITALITY GRP,OTCQB,0.116,,0,Common Stock,USA,North Carolina,"1,821,981",.
 CRTD,CREATD INC,OTCQB,0.086,-14.0,233357,Common Stock,USA,New York,"2,103,443",.
-GPOX,GPO PLUS INC,OTCQB,0.2625,38.1579,20427,Common Stock,USA,Nevada,"8,510,350",.
+GPOX,GPO PLUS INC,OTCQB,0.2625,38.1579,20427,Common Stock,USA,Nevada,"8,510,350","8900 - Services-Services, NEC"
 FTRS,FUTURIS CO,Pink Current,0.195,,0,Common Stock,USA,Maryland,"10,487,437",1040 - Gold and Silver Ores
 NOTR,NOWTRANSIT INC,Pink Current,9.0,,0,Common Stock,USA,Utah,"49,153,500",7374 - Data processing and preparation
 SEAV,SEATECH VENTURES CORP,Pink Current,0.16,,0,Common Stock,Malaysia,,"14,803,175",7380 - Services-Miscellaneous Business Services
@@ -1821,13 +1821,13 @@ GMPR,GOURMET PROVISIONS INTL,Pink Current,0.0105,-7.8947,482400,Common Stock,USA
 CIBH,CIB MARINE BANCSHARES,OTCQX U.S.,34.0,0.0,1851,Common Stock,USA,Wisconsin,"46,551,270",6022 - State commercial banks
 HBIS,HOME BISTRO INC,Pink Current,0.15,0.0,21400,Common Stock,USA,Florida,"6,600,751",5960 - Retail-Nonstore Retailers
 GXXM,GEX MGMT INC,Pink Current,0.003,11.1111,2124960,Common Stock,USA,Texas,"1,459,366",8742 - Management consulting services
-TBBC,TRIAD BUSINESS BANK,Pink Current,9.75,,0,Common Stock,USA,North Carolina,"64,379,094",.
-LNBY,LANDBAY INC CLASS A,Pink Current,0.6,,0,Common Stock,USA,New York,"18,000,000",.
-NEXD,NEXT DYNAMICS INC,Pink Current,1.0,,0,Common Stock,USA,New York,"23,147,535",.
-MHHC,MHHC ENTERPRISES INC,OTCQB,0.0257,,0,Common Stock,USA,Washington,"620,256",.
-BBXIA,BBX CAPITAL INC A,OTCQX U.S.,7.71,-2.2814,8939,Common Stock,USA,Florida,"94,556,851",.
-BBXIB,BBX CAPITAL INC B,Pink Current,8.35,,0,Common Stock,USA,Florida,"32,330,081",.
-WSTL,WESTELL TECHS INC A NEW,Pink Current,1.2425,-0.6,600,Common Stock,USA,Illinois,"9,968,504",.
+TBBC,TRIAD BUSINESS BANK,Pink Current,9.75,,0,Common Stock,USA,North Carolina,"64,379,094",Not Available
+LNBY,LANDBAY INC CLASS A,Pink Current,0.6,,0,Common Stock,USA,New York,"18,000,000",1040 - Gold and Silver Ores
+NEXD,NEXT DYNAMICS INC,Pink Current,1.0,,0,Common Stock,USA,New York,"23,147,535","4813 - Telephone communication, except radio"
+MHHC,MHHC ENTERPRISES INC,OTCQB,0.0257,,0,Common Stock,USA,Washington,"620,256","5065 - Electronic parts and equipment, misc"
+BBXIA,BBX CAPITAL INC A,OTCQX U.S.,7.71,-2.2814,8939,Common Stock,USA,Florida,"94,556,851",Not Available
+BBXIB,BBX CAPITAL INC B,Pink Current,8.35,,0,Common Stock,USA,Florida,"32,330,081",Not Available
+WSTL,WESTELL TECHS INC A NEW,Pink Current,1.2425,-0.6,600,Common Stock,USA,Illinois,"9,968,504",3661 - Telephone and telegraph apparatus
 VIHD,VISION HYDROGEN CORP,OTCQB,4.75,,0,Common Stock,USA,New Jersey,"99,981,686",2810 - Industrial Inorganic Chemicals
 WETH,WETOUCH TECHNOLOGY INC,OTCQB,0.5,-1.9608,10011,Common Stock,China,,"16,672,771","3577 - Computer peripheral equipment, misc"
 TRDX,TREND EXPLORATION INC,Pink Current,0.08945,,1,Common Stock,Taiwan,,"828,983","6719 - Holding companies, misc"
@@ -1841,8 +1841,8 @@ AXAS,ABRAXAS PETROLEUM CORP,OTCQX U.S.,0.8,14.302,18369,Common Stock,USA,Texas,"
 BIGN,BIGEON,Pink Current,0.15,,0,Common Stock,Czech Republic,,"657,233","7370 - Services-Computer Programming, Data Processing, Etc."
 CMRF,CIM REAL ESTTE FIN TR INC,Pink Current,5.76,,0,Common Stock,USA,Arizona,"2,516,544,000",6798 - Real estate investment trusts
 BWMY,BORROWMONEY.COM INC,Pink Current,0.03,,0,Common Stock,USA,Florida,"3,348,587","7389 - Business services, misc"
-STSFF,SMARTSTOP SELF STRGE REIT,Pink Current,13.64,,0,Common Stock,USA,California,"1,054,398,884",.
-NGLD,NEVADA CANYON GOLD CORP,Pink Current,0.651,-2.8358,4100,Common Stock,USA,Nevada,"5,653,996",.
+STSFF,SMARTSTOP SELF STRGE REIT,Pink Current,13.64,,0,Common Stock,USA,California,"1,054,398,884",6798 - Real estate investment trusts
+NGLD,NEVADA CANYON GOLD CORP,Pink Current,0.651,-2.8358,4100,Common Stock,USA,Nevada,"5,653,996",1040 - Gold and Silver Ores
 AIXN,AIXIN LIFE INTL INC,OTCQX U.S.,3.32,,0,Common Stock,China,,"165,999,638",5912 - Drugstores and Proprietary Stores
 PCOK,PACIFIC OAK STRATEGIC OPP,Pink Current,7.16,,0,Common Stock,USA,California,"745,643,410",6798 - Real estate investment trusts
 BOTH,BIOETHICS LTD,Pink Current,0.22,,0,Common Stock,USA,Utah,"249,743",6770 - Blank Checks
@@ -1853,8 +1853,8 @@ KWIK,KWIKCLICK INC,Pink Current,5.15,,0,Common Stock,USA,Utah,"787,783,171",7374
 CNNA,CANN AMERICAN CORP,Pink Current,0.0022,,0,Common Stock,USA,California,"575,667","6719 - Holding companies, misc"
 GSDT,GSDT FINTECH GROUP INC,Pink Current,1.25,,0,Common Stock,USA,Florida,"1,875,243,556","8748 - Business consulting, misc"
 UPYY,UPAY INC,OTCQB,0.8,,0,Common Stock,USA,Texas,"13,725,502",7372 - Prepackaged software
-STBK,STUDIO FINL HLDGS INC,Pink Current,13.25,,0,Common Stock,USA,Tennessee,"99,978,988",.
-PPCB,PROPANC BIOPHARMA INC,Pink Current,0.0015,0.0,5135250,Common Stock,Australia,Victoria,"861,773",.
+STBK,STUDIO FINL HLDGS INC,Pink Current,13.25,,0,Common Stock,USA,Tennessee,"99,978,988",Not Available
+PPCB,PROPANC BIOPHARMA INC,Pink Current,0.0015,0.0,5135250,Common Stock,Australia,Victoria,"861,773",2834 - Pharmaceutical preparations
 CHMT,CHARMT INC,Pink Current,0.52,,0,Common Stock,USA,Florida,"2,012,712",.
 WINR,SIMPLICITY ESPRTS&GAMING,OTCQB,0.03,-25.4658,111282,Common Stock,USA,Florida,"94,745",.
 MSGP,MEDSMART GROUP INC,Pink Current,0.425,39.8947,3298,Common Stock,USA,New York,"22,062,573",.
@@ -1879,8 +1879,8 @@ ABCE,ABCO ENERGY INC,Pink Current,0.0041,,0,Common Stock,USA,Arizona,"1,068,112"
 RSPI,RESPIRERX PHARMA INC,Pink Current,0.0093,57.6271,108000,Common Stock,USA,New Jersey,"1,112,227",.
 GBFH,GBANK FINL HLDGS INC,OTCQX U.S.,9.45,0.0,10700,Common Stock,USA,Nevada,"119,561,428",.
 RELV,RELIV INTL INC,Pink Current,4.5,,0,Common Stock,USA,Missouri,"4,762,364",.
-IVBT,INNOVATION1 BIOTECH IN,OTCQB,0.08,,26,Common Stock,USA,New York,"1,601,619",.
-VRUS,VERUS INTL INC,Pink Current,0.0003,50.0,71000,Common Stock,USA,Texas,"607,355",.
+IVBT,INNOVATION1 BIOTECH IN,OTCQB,0.08,,26,Common Stock,USA,New York,"1,601,619",2834 - Pharmaceutical preparations
+VRUS,VERUS INTL INC,Pink Current,0.0003,50.0,71000,Common Stock,USA,Texas,"607,355","5141 - Groceries, general line"
 GBUX,GIVBUX INC,Pink Current,2.33,,0,Common Stock,USA,California,"204,467,829","2840 - Soap, Detergents, Cleaning Preparations, Perfumes, Cosmetics"
 NPFC,NEWPOINT FINL CORP,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,7997 - Membership sports and recreation clubs
 ACMB,AGRO CAPITAL MGMT CP,Pink Current,0.08,14.2857,11000,Common Stock,USA,Nevada,"4,119,724","3999 - Manufacturing industries, misc"
@@ -1891,14 +1891,14 @@ FLCX,FLOOIDCX CORP,Pink Current,0.54,,0,Common Stock,USA,Nevada,"1,091,270","738
 SKWG,SKYWEALTH GROUP INC,Pink Current,1.07,,0,Common Stock,Hong Kong,,"240,750",8711 - Engineering services
 VKIN,VIKING ENERGY GROUP INC,OTCQB,0.29,-6.0881,39433,Common Stock,USA,Texas,"33,286,480",1311 - Crude petroleum and natural gas
 KWAC,KINGSWOOD ACQ CORP A,Pink Current,10.26,,0,Common Stock,USA,New York,"15,013,007",6770 - Blank Checks
-FTCO,FORTITUDE GOLD CORP,OTCQB,5.54,1.6514,21752,Common Stock,USA,Colorado,"133,095,957",.
-TGCB,TEGO CYBER INC,OTCQB,0.51,,0,Common Stock,USA,Nevada,"13,506,352",.
-ASCK,AUSCRETE CORP,Pink Current,0.019,,0,Common Stock,USA,Washington,"1,112,472",.
-LBSR,LIBERTY STAR URANM METLS,OTCQB,0.159,15.6364,14140,Common Stock,USA,Arizona,"2,602,736",.
-HMBL,HUMBL INC,OTCQB,0.0286,4.7619,14134482,Common Stock,USA,California,"50,763,777",.
-LVCE,LIVECARE INC,Pink Current,1.25,,0,Common Stock,USA,Utah,"55,626,498",.
-SNBH,SENTIENT BRANDS HOLDINGS,Pink Current,0.03002,-2.374,4100,Common Stock,USA,New York,"1,573,660",.
-GEDUF,G8 EDUCATION LTD,Pink Current,0.0,,0,Common Stock,,,Not Available,.
+FTCO,FORTITUDE GOLD CORP,OTCQB,5.54,1.6514,21752,Common Stock,USA,Colorado,"133,095,957",1040 - Gold and Silver Ores
+TGCB,TEGO CYBER INC,OTCQB,0.51,,0,Common Stock,USA,Nevada,"13,506,352","7370 - Services-Computer Programming, Data Processing, Etc."
+ASCK,AUSCRETE CORP,Pink Current,0.019,,0,Common Stock,USA,Washington,"1,112,472","3272 - Concrete products, misc"
+LBSR,LIBERTY STAR URANM METLS,OTCQB,0.159,15.6364,14140,Common Stock,USA,Arizona,"2,602,736",1000 - Metal Mining
+HMBL,HUMBL INC,OTCQB,0.0286,4.7619,14134482,Common Stock,USA,California,"50,763,777",5000 - Wholesale-Durable Goods
+LVCE,LIVECARE INC,Pink Current,1.25,,0,Common Stock,USA,Utah,"55,626,498",Not Available
+SNBH,SENTIENT BRANDS HOLDINGS,Pink Current,0.03002,-2.374,4100,Common Stock,USA,New York,"1,573,660",5734 - Computer and software stores
+GEDUF,G8 EDUCATION LTD,Pink Current,0.0,,0,Common Stock,,,Not Available,Not Available
 GMGT,GAMING TECHNOLOGIES INC,OTCQB,0.2501,,0,Common Stock,USA,Nevada,"7,841,123",7372 - Prepackaged software
 LVPA,LVPAI GROUP LIMITED,Pink Current,0.0,,0,Common Stock,USA,Nevada,Not Available,"6799 - Investors, misc"
 IMTH,INNOVATIVE MEDTECH INC,Pink Current,1.57,0.0,100,Common Stock,USA,Illinois,"33,217,003",5040 - Wholesale-Professional & Commercial Equipment & Supplies
@@ -1909,11 +1909,11 @@ VADP,VADO CORP NEW,Pink Current,11.3,,0,Common Stock,USA,Utah,"1,129,836,150",23
 SCTH,SECURETECH INNOVATINS INC,Pink Current,0.0,,0,Common Stock,USA,Minnesota,Not Available,3714 - Motor vehicle parts and accessories
 SAML,SAMSARA LUGGAGE INC,OTCQB,0.197901,,0,Common Stock,USA,New York,"657,639","5990 - Retail-Retail Stores, NEC"
 GCEH,GLOBAL CLEAN ENGY HLDGS,OTCQB,2.03,0.0,3525,Common Stock,USA,California,"85,917,584",2860 - Industrial Organic Chemicals
-SING,SINGLEPOINT INC,OTCQB,0.114,3.8251,1347944,Common Stock,USA,Arizona,"9,988,487",.
-SHMY,SYNERGY EMPIRE LTD,OTCQB,3.59,,0,Common Stock,Malaysia,,"3,590,000",.
-MBBC,MARATHON BANCORP INC,Pink Current,10.94,,0,Common Stock,USA,Wisconsin,"24,830,518",.
-RSAU,ROOSHINE INC NEW,Pink Current,0.65,,0,Common Stock,USA,Florida,"14,721,883",.
-CAUUF,CENTAUR MEDIA PLC,Pink Current,0.738773,,0,Common Stock,,,Not Available,.
+SING,SINGLEPOINT INC,OTCQB,0.114,3.8251,1347944,Common Stock,USA,Arizona,"9,988,487",5960 - Retail-Nonstore Retailers
+SHMY,SYNERGY EMPIRE LTD,OTCQB,3.59,,0,Common Stock,Malaysia,,"3,590,000",5812 - Eating places
+MBBC,MARATHON BANCORP INC,Pink Current,10.94,,0,Common Stock,USA,Wisconsin,"24,830,518","6036 - Savings institutions, except federal"
+RSAU,ROOSHINE INC NEW,Pink Current,0.65,,0,Common Stock,USA,Florida,"14,721,883",5182 - Wine and distilled beverages
+CAUUF,CENTAUR MEDIA PLC,Pink Current,0.738773,,0,Common Stock,,,Not Available,Not Available
 BMNR,BITMINE IMMERSIN TECH INC,Pink Current,0.85,,0,Common Stock,USA,Georgia,"39,827,089",.
 CRXTQ,CLARUS THERAPUTCS HLDGS,Pink Current,0.031725,6.6207,332801,Common Stock,USA,Illinois,"1,650,618",.
 CBTN,CITIZENS BNCRP INVT INC A,OTCQX U.S. Premier,44.0,,0,Common Stock,USA,Tennessee,"258,764,000",.
@@ -1938,12 +1938,12 @@ KBSG,KBS GROWTH & INCME REIT A,Pink Current,0.0,,0,Common Stock,USA,California,N
 CHUC,CHARLIES HOLDINGS INC,OTCQB,0.0755,7.8571,50141,Common Stock,USA,California,"16,428,578",.
 FORZ,FORZA INNOVATIONS INC,Pink Current,0.0021,0.0,4164022,Common Stock,USA,California,"797,632",.
 LQLY,QLY BIOTECH GROUP CORP,Pink Current,1.05,,0,Common Stock,,,"4,089,750",.
-SSCC,SPIRITS CAP CORP,Pink Current,2.0,,0,Common Stock,USA,California,"186,822,440",.
-MMEX,MMEX RESOURCES CORP,Pink Current,0.0333,-14.6154,91398,Common Stock,USA,Texas,"918,071",.
-BLPG,BLUE LINE PROTECTION GRP,Pink Current,0.183,-26.0606,3063,Common Stock,USA,Colorado,"1,505,201",.
-SMTK,SMARTKEM INC,OTCQB,0.7,,0,Common Stock,United Kingdom,England,"18,864,497",.
+SSCC,SPIRITS CAP CORP,Pink Current,2.0,,0,Common Stock,USA,California,"186,822,440","7389 - Business services, misc"
+MMEX,MMEX RESOURCES CORP,Pink Current,0.0333,-14.6154,91398,Common Stock,USA,Texas,"918,071",7819 - Services allied to motion pictures
+BLPG,BLUE LINE PROTECTION GRP,Pink Current,0.183,-26.0606,3063,Common Stock,USA,Colorado,"1,505,201",5900 - Retail-Miscellaneous Retail
+SMTK,SMARTKEM INC,OTCQB,0.7,,0,Common Stock,United Kingdom,England,"18,864,497",3674 - Semiconductors and related devices
 MSTH,MYSTIC HOLDINGS INC,OTCQX U.S.,0.51,,0,Common Stock,USA,Nevada,"59,098,583",2834 - Pharmaceutical preparations
-SSOK,SUNSTOCK INC,OTCQB,0.6,12.1495,8431,Common Stock,USA,California,"2,475,832",.
+SSOK,SUNSTOCK INC,OTCQB,0.6,12.1495,8431,Common Stock,USA,California,"2,475,832",5331 - Variety stores
 STLY,HG HOLDINGS INC,OTCQB,7.75,,0,Common Stock,USA,North Carolina,"21,995,825",6798 - Real estate investment trusts
 NIKA,NIKA BIOTECHNOLOGY INC,Pink Current,0.72,,0,Common Stock,USA,Nevada,"147,027,619",Not Available
 STRG,STARGUIDE GROUP INC,Pink Current,1.0,,0,Common Stock,USA,Nevada,"2,868,000",5190 - Wholesale-Miscellaneous Nondurable Goods
@@ -1954,11 +1954,11 @@ TQLB,TORQUE LFESTYLE BRAND,Pink Current,0.01055,0.0,1565,Common Stock,USA,Colora
 CRDV,COMMUNITY REDEVELOPMENT,Pink Current,0.05,,0,Common Stock,USA,Maryland,"1,420,727","6552 - Subdivisers and developers, misc"
 EWLU,MERION INC,OTCQB,0.076,,0,Common Stock,USA,California,"4,675,513","5122 - Drugs, proprietaries, and sundries"
 STEK,STEMTECH CORP,OTCQB,0.688,7.5,245298,Common Stock,USA,Florida,"32,521,846","7370 - Services-Computer Programming, Data Processing, Etc."
-CATG,CAPSTONE TECH GROUP INC,Pink Current,5.0,,0,Common Stock,USA,North Carolina,"27,332,850",.
-INKI,INKY,Pink Current,1.1,,0,Common Stock,Cyprus,,"5,601,225",.
-APHP,AMERICAN PICTURE HOUSE CP,Pink Current,0.0255,,0,Common Stock,USA,New York,"2,517,747",.
-WRPT,WARPSPEED TAXI INC,Pink Current,0.0201,,0,Common Stock,USA,Nevada,"4,811,337",.
-SCTC,SCOUTCAM INC,OTCQB,5.5,,0,Common Stock,Israel,,"39,169,554",.
+CATG,CAPSTONE TECH GROUP INC,Pink Current,5.0,,0,Common Stock,USA,North Carolina,"27,332,850",3357 - Nonferrous wire drawing and insulating
+INKI,INKY,Pink Current,1.1,,0,Common Stock,Cyprus,,"5,601,225",7374 - Data processing and preparation
+APHP,AMERICAN PICTURE HOUSE CP,Pink Current,0.0255,,0,Common Stock,USA,New York,"2,517,747",7812 - Motion picture and video production
+WRPT,WARPSPEED TAXI INC,Pink Current,0.0201,,0,Common Stock,USA,Nevada,"4,811,337","7389 - Business services, misc"
+SCTC,SCOUTCAM INC,OTCQB,5.5,,0,Common Stock,Israel,,"39,169,554",3827 - Optical instruments and lenses
 PFTY,PARALLEL FLIGHT TECH B,Pink Current,3.5,,0,Common Stock,,,Not Available,.
 ENMI,DH ENCHANTMENT INC,Pink Current,0.0091,,0,Common Stock,Hong Kong,,"7,564,921",.
 NLCP,NEWLAKE CAP PARTNERS INC,OTCQX U.S.,13.9,1.0174,19747,Common Stock,USA,Connecticut,"289,097,303",.
@@ -1994,13 +1994,13 @@ GRTA,GRIFFIN REALTY TRUST A,Pink Current,0.0,,0,Common Stock,USA,California,Not 
 GRTAA,GRIFFIN REALTY TRUST AA,Pink Current,7.6,,0,Common Stock,USA,California,Not Available,6798 - Real estate investment trusts
 NOWG,NOWIGENCE INC A,OTCQB,0.35,0.0,20250,Common Stock,USA,North Carolina,"10,921,149",Not Available
 MCAP,MCAP INC,Pink Current,9.75,,0,Common Stock,USA,Florida,"226,589,396",7371 - Custom computer programming services
-NBLD,NESTBUILDER.COM CORP,OTCQB,0.05,,17,Common Stock,USA,New Jersey,"300,210",.
-MCLE,MEDICALE CORP,Pink Current,2.0,,0,Common Stock,USA,Georgia,"11,840,000",.
-BULT,BULLET BLOCKCHAIN INC,Pink Current,0.015,7.1429,3080,Common Stock,USA,Nevada,"5,098,024",.
-OECPF,ORACLE ENRGY CP NEW,Pink Current,0.02896,,0,Common Stock,Canada,British Columbia,Not Available,.
-ACRU,AMERICREW INC,Pink Current,2.0,,0,Common Stock,USA,New Jersey,"31,528,848",.
-CNFN,CFN ENTERPRISES INC,OTCQB,0.4999,,0,Common Stock,USA,Montana,"16,908,550",.
-GWLL,GOLDENWELL BIOTECH INC,Pink Current,0.0,,0,Common Stock,USA,Ohio,Not Available,.
+NBLD,NESTBUILDER.COM CORP,OTCQB,0.05,,17,Common Stock,USA,New Jersey,"300,210",7310 - Services-Advertising
+MCLE,MEDICALE CORP,Pink Current,2.0,,0,Common Stock,USA,Georgia,"11,840,000",8000 - Services-Health Services
+BULT,BULLET BLOCKCHAIN INC,Pink Current,0.015,7.1429,3080,Common Stock,USA,Nevada,"5,098,024",7374 - Data processing and preparation
+OECPF,ORACLE ENRGY CP NEW,Pink Current,0.02896,,0,Common Stock,Canada,British Columbia,Not Available,1382 - Oil and gas exploration services
+ACRU,AMERICREW INC,Pink Current,2.0,,0,Common Stock,USA,New Jersey,"31,528,848",6770 - Blank Checks
+CNFN,CFN ENTERPRISES INC,OTCQB,0.4999,,0,Common Stock,USA,Montana,"16,908,550","7389 - Business services, misc"
+GWLL,GOLDENWELL BIOTECH INC,Pink Current,0.0,,0,Common Stock,USA,Ohio,Not Available,2000 - Food and Kindred Products
 SATT,SATIVUS TECH CORP,Pink Current,0.5997,,0,Common Stock,USA,Maryland,"2,515,373",8742 - Management consulting services
 YCQH,YCQH AGRIC TECHNOLOGY CO,Pink Current,1.0,,0,Common Stock,China,,"101,400,000",2870 - Agricultural Chemicals
 FIGI,FREEDOM INTERNET GROP INC,Pink Current,2.05,,0,Common Stock,USA,Puerto Rico,"22,821,026",6794 - Patent owners and lessors
@@ -2012,9 +2012,9 @@ PXPC,PHOENIX PLUS CORP,Pink Current,1.35,,0,Common Stock,Malaysia,,"449,144,325"
 CYRB,CYBER APP SOLUTIONS CORP,Pink Current,0.0,,0,Common Stock,,,Not Available,7371 - Custom computer programming services
 BBOP,BEBOP CHANNEL CORP,Pink Current,0.35,,0,Common Stock,USA,New York,"3,056,564",7829 - Motion picture distribution services
 ARMM,ARMM INC,OTCQB,1.05,,0,Common Stock,USA,Nevada,"22,004,477",Not Available
-TZUP,THUMZUP MEDIA CORP,OTCQB,7.1,,0,Common Stock,USA,Nevada,"47,544,575",.
-CANB,CAN B CORP,OTCQB,2.2,1.3825,451,Common Stock,USA,New York,"8,575,288",.
-GDTRF,GLADIATOR METALS CORP,Pink Current,0.1,,0,Common Stock,,,Not Available,.
+TZUP,THUMZUP MEDIA CORP,OTCQB,7.1,,0,Common Stock,USA,Nevada,"47,544,575",7374 - Data processing and preparation
+CANB,CAN B CORP,OTCQB,2.2,1.3825,451,Common Stock,USA,New York,"8,575,288","5122 - Drugs, proprietaries, and sundries"
+GDTRF,GLADIATOR METALS CORP,Pink Current,0.1,,0,Common Stock,,,Not Available,Not Available
 AJYG,AJ1G INC,Pink Current,0.511,,1,Common Stock,USA,Nevada,"5,124,360",.
 MYSN,MYSON INC,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,.
 SNCF,SANARCO FUNDS INC.,Pink Current,1.15,,0,Common Stock,Luxembourg,,"1,208,289",.
@@ -2036,7 +2036,7 @@ TRIQ,TRAQIQ INC,OTCQB,1.65,-27.3128,1038,Common Stock,USA,Washington,"7,406,088"
 BRWC,BIRDIE WIN CORP,Pink Current,0.51,,0,Common Stock,Malaysia,,"2,570,400",.
 PCBB,PACIFIC COAST BANKERS BK,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,.
 DZCA,DRAZCANNA INC,Pink Current,0.137,-0.3636,11565,Common Stock,USA,Michigan,"1,363,101",.
-GRTT,GRIFFIN RLTY TRUST INC T,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,.
+GRTT,GRIFFIN RLTY TRUST INC T,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,6798 - Real estate investment trusts
 BIOE,BIO ESSENCE CORP,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,2834 - Pharmaceutical preparations
 RTSL,RAPID THRPTIC SCIENCE LAB,Pink Current,1.2,0.0,288,Common Stock,USA,Texas,"9,297,905",2834 - Pharmaceutical preparations
 GUER,GUERRILLA RF INC,OTCQX U.S.,1.7,-5.5556,9189,Common Stock,USA,North Carolina,"56,732,726",3674 - Semiconductors and related devices
@@ -2047,14 +2047,14 @@ MGUFF,MAGNUM MINING AND EXPLTN,Pink Current,0.0,,0,Common Stock,Australia,Victor
 HWGC,HWGC HOLDINGS LIMITED,OTCQB,2.4,,0,Common Stock,Malaysia,,"12,982,344",5000 - Wholesale-Durable Goods
 MBIC,MOBILE INFRASTRUCTURE CP,Pink Current,0.0,,0,Common Stock,USA,Ohio,Not Available,6798 - Real estate investment trusts
 ASFH,ASIAFIN HLDGS CORP,Pink Current,1.2,,0,Common Stock,Malaysia,,"87,983,760","7389 - Business services, misc"
-BRCOF,BUSCANDO RES CORP,OTCQB,0.0,,0,Common Stock,Canada,British Columbia,Not Available,.
-TWCHF,TIONG WOON CORP HLDG,Pink Current,0.0,,0,Common Stock,,,Not Available,.
-DVTC,DEVELOPMENT TECHNOLOGIES,Pink Current,5.0,,0,Common Stock,USA,New York,"5,004,975",.
-FLES,AUTO PARTS 4LESS GRP INC,OTCQB,4.0,0.0,201,Common Stock,USA,Nevada,"6,670,296",.
-PLQC,PLAINS ACQUISITION CORP,Pink Current,40.4,0.7481,625,Common Stock,USA,Texas,"97,694,270",.
-BBRW,BREWBILT MFG INC,Pink Current,0.0008,0.0,8848976,Common Stock,USA,California,"414,613",.
-TIHE,TAIHE GROUP INC,Pink Current,0.0,,0,Common Stock,Indonesia,,Not Available,.
-ARIR,ARES INDL REIT INC T,Pink Current,0.0,,0,Common Stock,USA,Colorado,Not Available,.
+BRCOF,BUSCANDO RES CORP,OTCQB,0.0,,0,Common Stock,Canada,British Columbia,Not Available,Not Available
+TWCHF,TIONG WOON CORP HLDG,Pink Current,0.0,,0,Common Stock,,,Not Available,Not Available
+DVTC,DEVELOPMENT TECHNOLOGIES,Pink Current,5.0,,0,Common Stock,USA,New York,"5,004,975","6552 - Subdivisers and developers, misc"
+FLES,AUTO PARTS 4LESS GRP INC,OTCQB,4.0,0.0,201,Common Stock,USA,Nevada,"6,670,296","7389 - Business services, misc"
+PLQC,PLAINS ACQUISITION CORP,Pink Current,40.4,0.7481,625,Common Stock,USA,Texas,"97,694,270",Not Available
+BBRW,BREWBILT MFG INC,Pink Current,0.0008,0.0,8848976,Common Stock,USA,California,"414,613",5047 - Medical and hospital equipment
+TIHE,TAIHE GROUP INC,Pink Current,0.0,,0,Common Stock,Indonesia,,Not Available,8071 - Medical laboratories
+ARIR,ARES INDL REIT INC T,Pink Current,0.0,,0,Common Stock,USA,Colorado,Not Available,6798 - Real estate investment trusts
 EVFM,EVOFEM BIOSCIENCES INC,Pink Current,0.176,-0.4525,702443,Common Stock,USA,California,"17,327,075",2834 - Pharmaceutical preparations
 CNBX,CNBX PHARMACEUTICAL INC,OTCQB,2.8,,38,Common Stock,USA,Maryland,"3,522,196",2834 - Pharmaceutical preparations
 MROPF,MICROPORT CARDIOFLW MEDTH,Pink Current,0.0,,0,Common Stock,,,Not Available,Not Available
@@ -2068,10 +2068,10 @@ MANA,GRAYSCALE DECENTRALAND TR,OTCQX U.S.,7.0,,122,Common Stock,USA,Connecticut,
 SGLA,SINO GREEN LAND CORP,Pink Current,0.682,,0,Common Stock,Malaysia,,"996,085",5140 - Wholesale-Groceries & Related Products
 FIGP,FORGE GROUP INC,Pink Current,11.65,,0,Common Stock,,,Not Available,Not Available
 TDWRF,TIDEWATER RENEWABLES LTD,Pink Current,8.2,,0,Common Stock,,,Not Available,Not Available
-CMPD,COMPUMED INC,Pink Current,3.09,,1,Common Stock,USA,California,"5,206,301",.
-MIIWF,MEWAH INTERNATIONAL INC,Pink Current,0.0,,0,Common Stock,,,Not Available,.
-SPRQF,SPARQ CORP,OTCQX International,0.3679,,0,Common Stock,Canada,Ontario,"30,331,249",.
-PROIF,PROPHECY INTL HLDGS LTD,Pink Current,0.0,,0,Common Stock,,,Not Available,.
+CMPD,COMPUMED INC,Pink Current,3.09,,1,Common Stock,USA,California,"5,206,301","8090 - Services-Misc Health & Allied Services, NEC"
+MIIWF,MEWAH INTERNATIONAL INC,Pink Current,0.0,,0,Common Stock,,,Not Available,Not Available
+SPRQF,SPARQ CORP,OTCQX International,0.3679,,0,Common Stock,Canada,Ontario,"30,331,249",Not Available
+PROIF,PROPHECY INTL HLDGS LTD,Pink Current,0.0,,0,Common Stock,,,Not Available,Not Available
 FALSF,FIREANGEL SAFETY TECH GRP,Pink Current,0.0,,0,Common Stock,,,Not Available,.
 LBNW,LIBERTY NORTHWEST BANCORP,OTCQX U.S.,6.95,,0,Common Stock,USA,Washington,"11,391,113",.
 ADXS,ADVAXIS INC,OTCQX U.S.,2.06,-0.9615,1095,Common Stock,USA,New Jersey,"3,740,859",.
@@ -2104,14 +2104,14 @@ FSUN,FIRSTSUN CAP BANCORP,OTCQX U.S.,30.41,-1.6176,210,Common Stock,USA,Colorado
 XOEEF,X1 ESPORTS ENTMT,OTCQB,0.35,,0,Common Stock,Canada,British Columbia,"16,340,822",Not Available
 YCRM,YUENGLING'S ICE CREAM,Pink Current,0.024,-3.6145,9791,Common Stock,USA,Georgia,"324,686",2000 - Food and Kindred Products
 SSST,SMARTSTOP SELF STRGE T,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,.
-PTVLF,PET VALU HLDGS LTD,Pink Current,0.0,,0,Common Stock,Canada,Ontario,Not Available,.
-PARG,POWER AMERICAS RES GRP,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,.
-QPRC,QUEST PATENT RESEARCH CP,OTCQB,0.2,-20.0,102,Common Stock,USA,New York,"1,066,343",.
-LDDD,LONGDUODUO CO LTD,Pink Current,0.0,,0,Common Stock,China,,Not Available,.
-PMIN,PLASMA INNOVATIVE INC,Pink Current,0.0,,0,Common Stock,USA,Pennsylvania,Not Available,.
-RAPH,RAPHAEL PHARMACEUTICL INC,Pink Current,0.0,,0,Common Stock,Israel,,Not Available,.
-SNGCF,SANU GOLD CORP,Pink Current,0.3,,0,Common Stock,Canada,British Columbia,"17,502,300",.
-VPIM,VITALITY PRIME INC,Pink Current,0.2725,,21,Common Stock,USA,California,"3,002,384",.
+PTVLF,PET VALU HLDGS LTD,Pink Current,0.0,,0,Common Stock,Canada,Ontario,Not Available,Not Available
+PARG,POWER AMERICAS RES GRP,Pink Current,0.0,,0,Common Stock,USA,California,Not Available,"2759 - Commercial printing, misc"
+QPRC,QUEST PATENT RESEARCH CP,OTCQB,0.2,-20.0,102,Common Stock,USA,New York,"1,066,343",5190 - Wholesale-Miscellaneous Nondurable Goods
+LDDD,LONGDUODUO CO LTD,Pink Current,0.0,,0,Common Stock,China,,Not Available,8000 - Services-Health Services
+PMIN,PLASMA INNOVATIVE INC,Pink Current,0.0,,0,Common Stock,USA,Pennsylvania,Not Available,"2836 - Biological products, except diagnostic"
+RAPH,RAPHAEL PHARMACEUTICL INC,Pink Current,0.0,,0,Common Stock,Israel,,Not Available,2833 - Medicinal and botanicals
+SNGCF,SANU GOLD CORP,Pink Current,0.3,,0,Common Stock,Canada,British Columbia,"17,502,300",Not Available
+VPIM,VITALITY PRIME INC,Pink Current,0.2725,,21,Common Stock,USA,California,"3,002,384",7380 - Services-Miscellaneous Business Services
 ETWLF,EASTOWER WIRELESS INC,Pink Current,0.0,,0,Common Stock,Canada,Ontario,Not Available,Not Available
 OKMN,OKMIN RESOURCES INC,OTCQB,0.0,,0,Common Stock,USA,California,Not Available,1311 - Crude petroleum and natural gas
 FTFI,FIRST BERLN BNCRP CMT CAP,OTCQX U.S.,0.0,,0,Common Stock,USA,Wisconsin,Not Available,Not Available
