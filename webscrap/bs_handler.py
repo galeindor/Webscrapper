@@ -2,7 +2,9 @@ from time import sleep
 
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
-from consts import class_names, headers, endings
+from selenium.webdriver.common.by import By
+
+from consts import class_names, headers, endings,EMPTY_CELL
 from requests_html import HTMLSession
 
 
@@ -36,7 +38,7 @@ def driver_test(symbols, keyword):
 
 def get_html_by_requests(url):
     session = HTMLSession()
-    r = session.get(url)
+    r = session.get(url, headers=headers)
     r.html.render()
     print(r.text)
     print('\n------------------------------\n')
@@ -55,6 +57,10 @@ class Soup:
         self._driver = webdriver.Chrome()
         self.reset(symbol)
 
+    # def get_value_test(self):
+    #     url = create_url(self._symbol, self._key)
+    #     return self.get_html(url)
+
     def get_html(self, url):
         self._driver.get(url)
         sleep(2.5)
@@ -72,7 +78,7 @@ class Soup:
             return str(res.string)
         except AttributeError as e:
             print(f'Market Cap can not be found for symbol: {symbol} \n{e}')
-            return None
+            return EMPTY_CELL
 
     # def find_value_by_key(self, key=None):
     #     assert key is None

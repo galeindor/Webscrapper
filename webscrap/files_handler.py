@@ -1,27 +1,33 @@
 import pandas as pd
 from bs_handler import Soup
-from consts import endings
+from consts import endings, EMPTY_CELL
 
 
 class FileHandler:
     def __init__(self, input_file, output_file):
         self._bs = None
-        self._data = pd.read_csv(input_file)
+        self._data = pd.read_csv(input_file, index_col=None)
         self._out_file = output_file
         self._in_file = input_file
 
-    def add_column(self, keyword):
-        assert keyword not in endings.items()
+    # def html_test(self):
+    #     self._bs = Soup('WVFC', 'Market Cap')
+    #     return self._bs.get_value_test()
 
+    def add_column(self, keyword):
+        if keyword not in endings.keys():
+            print(f'{keyword} is not a valid keyword , exiting')
+            return
+        errors_dict = {}
         if keyword not in self._data.columns:  # if column doesn't exist , create empty column
-            self._data[keyword] = None
+            self._data[keyword] = EMPTY_CELL
             self._data.to_csv(self._in_file)
         symbol = None
         for index in range(len(self._data)):
             try:
                 symbol = self._data['Symbol'].loc[index]
                 value = self._data.loc[index, keyword]
-                if value == ' ' or value is None:
+                if value == EMPTY_CELL:
                     if self._bs is None:
                         self._bs = Soup(symbol, keyword)
                     else:
@@ -32,9 +38,10 @@ class FileHandler:
                 self.export_to_csv()
 
             except Exception as e:
-                print(f"got execption for symbol: {symbol} \n{e}")
+                errors_dict[symbol] = e
+        print('finished run with the following errors:\n', errors_dict)
 
     def export_to_csv(self, file_name=None):
         if file_name is None:
             file_name = self._out_file
-        self._data.to_csv(file_name)
+        self._data.to_csv(file_name, index=False)
