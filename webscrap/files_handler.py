@@ -6,7 +6,11 @@ from consts import endings, EMPTY_CELL
 class FileHandler:
     def __init__(self, input_file, output_file):
         self._bs = None
-        self._data = pd.read_csv(input_file, index_col=None)
+        self._input_data = pd.read_csv(input_file, index_col=None)
+        try:
+            self._output_data = pd.read_csv(output_file, index_col=None)
+        except FileNotFoundError:
+            self._output_data = self._input_data
         self._out_file = output_file
         self._in_file = input_file
 
@@ -15,15 +19,16 @@ class FileHandler:
             print(f'{keyword} is not a valid keyword , exiting')
             return
         errors_dict = {}
-        if keyword not in self._data.columns:  # if column doesn't exist , create empty column
-            self._data[keyword] = EMPTY_CELL
+        if keyword not in self._input_data.columns:  # if column doesn't exist , create empty column
+            self._input_data[keyword] = EMPTY_CELL
+            self._output_data[keyword] = EMPTY_CELL
             self.export_to_csv(self._in_file)
             self.export_to_csv(self._out_file)
         symbol = None
-        for index in range(len(self._data)):
+        for index in range(len(self._input_data)):
             try:
-                symbol = self._data['Symbol'].loc[index]
-                value = self._data.loc[index, keyword]
+                symbol = self._input_data['Symbol'].loc[index]
+                value = self._output_data.loc[index, keyword]
                 if value == EMPTY_CELL or force_update:
                     if self._bs is None:
                         self._bs = Soup(symbol, keyword)
@@ -32,7 +37,7 @@ class FileHandler:
                 else:
                     continue
 
-                self._data.loc[index, keyword] = self._bs.locate_keyword(symbol, keyword)
+                self._output_data.loc[index, keyword] = self._bs.locate_keyword(symbol, keyword)
                 self.export_to_csv(self._out_file)
             except Exception as e:
                 errors_dict[symbol] = e
@@ -44,4 +49,4 @@ class FileHandler:
     def export_to_csv(self, file_name=None):
         if file_name is None:
             file_name = self._out_file
-        self._data.to_csv(file_name, index=False)
+        self._output_data.to_csv(file_name, index=False)

@@ -1,3 +1,5 @@
+from datetime import date
+
 endings = {
     'Market Cap': 'security',
     'SIC Code': 'profile',
@@ -18,31 +20,23 @@ class_names = {
         'outer_index': 0, 'inner_index': 0, 'outer': '_2Ff6O56evM sc-bdVaJa dmWroL', 'inner': '_3qFD1hZwGn'
     }
 }
+
+today = date.today()
 default_input_file = 'Stock_input.csv'
-default_output_file = 'Stock_output.csv'
+default_output_file = f'Stock_output_{today.strftime("%d-%m-%Y")}.csv'
 EMPTY_CELL = '.'
-SLEEP_TIME = 2.5
+SLEEP_TIME = 4
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 '
                   'Safari/537.36'}
+
 test_symbols = ['ADMT',
                 "ACMT", "ACMTA", "WHEN", "AGDY", "SPQS", "RGRX", "ALTX", "ABCP", "ABMC", 'ARTM', 'AVOT', 'CFNB', 'ANDR',
-                'SYQH',
-                'MICR', 'ARTNB', 'ATROB', 'AMNL', 'AIFS',
-                'BBBK',
-                'BISA',
-                'BKUT', 'BRBW', 'BHRB',
+                'SYQH', 'MICR', 'ARTNB', 'ATROB', 'AMNL', 'AIFS', 'BBBK', 'BISA', 'BKUT', 'BRBW', 'BHRB',
                 'BURCA', 'BZYR', 'BUKS', 'CAWW', 'CCFN', 'CPTP', 'CPKF', 'CBAF', 'CZBT', 'CIWV', 'CEFC', 'CNAF', 'CMTV',
                 'CNGA', 'ACFN', 'DBRM', 'DIMC', 'ELST', 'ETCC', 'ENZN', 'ENBP', 'DHCC', 'EXSR', 'FFWC', 'FIDS', 'FMBL',
-                'FABP', 'FSCR', 'FETM', 'FBSI', 'FBTT', 'FCNCB', 'FCIC', 'FKYS', 'FBAK',
-                'ELMA',
-                'FINN', 'FLEW', 'HCBN', 'HMLN', 'HFBK', 'HBSI', 'HONT',
-                'WGEI',
-                'INRD', 'ITDN',
-                'IVRO',
-                'JBTC', 'JUVF',
-                'KISB', 'LPHM', 'LINS', 'LINSA', 'LYBC', 'MLGF',
-                'MNBP', 'MCHT', 'PSSR', 'MNPP', 'MBKL', 'MTRT', 'MPAD', 'MMTRS', 'MUEL'
+                'FABP', 'FSCR', 'FETM', 'FBSI', 'FBTT', 'FCNCB', 'FCIC', 'FKYS', 'FBAK', 'ELMA', 'FINN', 'FLEW', 'HCBN',
+                'HMLN', 'HFBK', 'HBSI', 'HONT', 'WGEI', 'INRD', 'ITDN', 'IVRO', 'JBTC', 'JUVF', 'KISB', 'LPHM', 'LINS',
+                'LINSA', 'LYBC', 'MLGF', 'MNBP', 'MCHT', 'PSSR', 'MNPP', 'MBKL', 'MTRT', 'MPAD', 'MMTRS', 'MUEL'
                 ]
-
