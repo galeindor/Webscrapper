@@ -63,6 +63,13 @@ class Soup:
         web_html = self._driver.page_source
         return web_html
 
+    def safe_get_html(self, url):
+        self._driver = webdriver.Chrome()
+        self._driver(url)
+        web_html = self._driver.page_source
+        self._driver.close()
+        return web_html
+
     def locate_keyword(self, symbol=None, key=None):
         if symbol is None:
             symbol = self._symbol

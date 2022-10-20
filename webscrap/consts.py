@@ -25,7 +25,7 @@ today = date.today()
 default_input_file = 'Stock_input.csv'
 default_output_file = f'Stock_output_{today.strftime("%d-%m-%Y")}.csv'
 EMPTY_CELL = '.'
-SLEEP_TIME = 4
+SLEEP_TIME = 5
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 '
