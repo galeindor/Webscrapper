@@ -2,10 +2,8 @@ from time import sleep
 
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 
-from consts import class_names, headers, endings, EMPTY_CELL, SLEEP_TIME
-from requests_html import HTMLSession
+from consts import class_names,endings, EMPTY_CELL, SLEEP_TIME
 
 
 def create_url(symbol, key):
@@ -34,18 +32,6 @@ def driver_test(symbols, keyword):
             print(f'couldnt find inner for symbol: {symbol} \n{e}')
             continue
         print(f'res2:{res2.string}')
-
-
-def get_html_by_requests(url):
-    session = HTMLSession()
-    r = session.get(url, headers=headers)
-    r.html.render()
-    print(r.text)
-    print('\n------------------------------\n')
-    print(r.content)
-    print('\n------------------------------\n')
-    print(r.html)
-    return r.status_code
 
 
 class Soup:

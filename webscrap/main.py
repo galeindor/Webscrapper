@@ -1,6 +1,9 @@
 from files_handler import FileHandler
 from bs_handler import driver_test
 from consts import default_input_file, default_output_file
+import ptb
+
+ptb.enable()
 
 
 def run(keyword, input_file=default_input_file, output_file=default_output_file, force_update=False):
