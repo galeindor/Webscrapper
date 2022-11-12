@@ -2,6 +2,8 @@ from time import sleep
 
 from bs4 import BeautifulSoup as bs
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 
 from consts import class_names,endings, EMPTY_CELL, SLEEP_TIME
 
@@ -40,7 +42,8 @@ class Soup:
         self._symbol = None
         self._soup = None
         self._key = keyword
-        self._driver = webdriver.Chrome()
+        self._driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+
         self.reset(symbol)
 
     def get_html(self, url):
